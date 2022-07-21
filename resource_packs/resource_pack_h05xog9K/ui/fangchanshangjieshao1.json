@@ -1,0 +1,131 @@
+{
+   "main" : {
+      "controls" : [
+         {
+            "panel" : {
+               "alpha" : 1.0,
+               "anchor_from" : "center",
+               "anchor_to" : "center",
+               "clip_offset" : [ 0, 0 ],
+               "clips_children" : false,
+               "controls" : [
+                  {
+                     "image" : {
+                        "clip_direction" : "left",
+                        "clip_ratio" : 0.0,
+                        "controls" : [
+                           {
+                              "label" : {
+                                 "color" : [ 1, 1, 1 ],
+                                 "controls" : [],
+                                 "font_size" : "large",
+                                 "font_type" : "smooth",
+                                 "layer" : 1,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "offset" : [ 6.0, 0.0 ],
+                                 "shadow" : true,
+                                 "size" : [ 364, 66 ],
+                                 "text" : "欢迎光临阿尔法房产中心，这里有各式各样得到精美的私人房屋供你选择！",
+                                 "type" : "label"
+                              }
+                           },
+                           {
+                              "image" : {
+                                 "clip_direction" : "left",
+                                 "clip_ratio" : 0.0,
+                                 "layer" : 2,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "offset" : [ -210.0, -2.0 ],
+                                 "size" : [ 56, 70 ],
+                                 "texture" : "textures/ui/dressing_room_customization",
+                                 "type" : "image",
+                                 "uv" : [ 0, 0 ],
+                                 "uv_size" : [ 0, 0 ]
+                              }
+                           },
+                           {
+                              "button@common.button" : {
+                                 "$control_alpha" : 1.0,
+                                 "$default_texture" : "textures/ui/x_dropdown_default",
+                                 "$hover_texture" : "textures/netease/common/button/hover",
+                                 "$is_new_nine_slice" : false,
+                                 "$label_color" : [ 1, 1, 1 ],
+                                 "$label_font_scale_factor" : 1.0,
+                                 "$label_font_size" : "large",
+                                 "$label_layer" : 3,
+                                 "$label_offset" : [ 0, 0 ],
+                                 "$label_text" : "",
+                                 "$nine_slice_buttom" : 0,
+                                 "$nine_slice_left" : 0,
+                                 "$nine_slice_right" : 0,
+                                 "$nine_slice_top" : 0,
+                                 "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                 "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                                 "$pressed_texture" : "textures/netease/common/button/pressed",
+                                 "$texture_layer" : 2,
+                                 "bindings" : [
+                                    {
+                                       "binding_collection_name" : "",
+                                       "binding_condition" : "always_when_visible",
+                                       "binding_type" : "collection_details"
+                                    }
+                                 ],
+                                 "button_mappings" : [],
+                                 "controls" : [
+                                    {
+                                       "default@netease_editor_template_namespace.default" : {}
+                                    },
+                                    {
+                                       "hover@netease_editor_template_namespace.hover" : {}
+                                    },
+                                    {
+                                       "pressed@netease_editor_template_namespace.pressed" : {}
+                                    },
+                                    {
+                                       "button_label@netease_editor_template_namespace.button_label" : {}
+                                    }
+                                 ],
+                                 "default_control" : "default",
+                                 "hover_control" : "hover",
+                                 "is_handle_button_move_event" : true,
+                                 "layer" : 3,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "offset" : [ 215.0, 3.0 ],
+                                 "pressed_control" : "pressed",
+                                 "size" : [ 54, 50 ],
+                                 "type" : "button"
+                              }
+                           }
+                        ],
+                        "layer" : 1,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ 0, 0 ],
+                        "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+                        "texture" : "textures/ui/effect_background",
+                        "type" : "image",
+                        "uv" : [ 0, 0 ],
+                        "uv_size" : [ 0, 0 ]
+                     }
+                  }
+               ],
+               "enabled" : true,
+               "layer" : 1,
+               "max_size" : [ 0, 0 ],
+               "min_size" : [ 0, 0 ],
+               "offset" : [ 4.0, 84.50 ],
+               "priority" : 0,
+               "propagate_alpha" : false,
+               "size" : [ 486, 83 ],
+               "type" : "panel",
+               "visible" : true
+            }
+         }
+      ],
+      "type" : "screen"
+   },
+   "namespace" : "fangchanshangjieshao1"
+}

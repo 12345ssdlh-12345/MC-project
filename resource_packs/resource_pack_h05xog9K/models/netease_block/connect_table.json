@@ -1,0 +1,1356 @@
+{
+    "format_version": "1.13.0",
+    "netease:block_geometry": {
+        "bones": [
+            {
+                "name": "root",
+                "pivot": [
+                    0,
+                    0,
+                    0
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -16,
+                            14,
+                            0
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            16,
+                            2,
+                            16
+                        ],
+                        "uv": {
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    8,
+                                    1
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    8,
+                                    1
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    8,
+                                    1
+                                ]
+                            },
+                            "up": {
+                                "texture": 0,
+                                "uv": [
+                                    8,
+                                    8
+                                ],
+                                "uv_size": [
+                                    -8,
+                                    -8
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    8,
+                                    1
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "origin": [
+                            -1,
+                            10,
+                            15
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            1,
+                            4,
+                            1
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    0.5
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "up": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    0.5
+                                ],
+                                "uv_size": [
+                                    -0.5,
+                                    -0.5
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "origin": [
+                            -16,
+                            10,
+                            15
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            1,
+                            4,
+                            1
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    0.5
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "up": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    0.5
+                                ],
+                                "uv_size": [
+                                    -0.5,
+                                    -0.5
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "origin": [
+                            -16,
+                            10,
+                            0
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            1,
+                            4,
+                            1
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    0.5
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "up": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    0.5
+                                ],
+                                "uv_size": [
+                                    -0.5,
+                                    -0.5
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "origin": [
+                            -1,
+                            10,
+                            0
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            1,
+                            4,
+                            1
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    0.5
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            },
+                            "up": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    0.5
+                                ],
+                                "uv_size": [
+                                    -0.5,
+                                    -0.5
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "name": "table",
+                "parent": "root",
+                "pivot": [
+                    -8,
+                    0,
+                    8
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -3,
+                            0,
+                            1
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            2,
+                            12,
+                            2
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    15
+                                ],
+                                "uv_size": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "enable": "!query.is_connect(4) && !query.is_connect(2)",
+                "name": "west_north",
+                "parent": "table",
+                "pivot": [
+                    -8,
+                    0,
+                    8
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -3,
+                            0,
+                            13
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            2,
+                            12,
+                            2
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    15
+                                ],
+                                "uv_size": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "enable": "!query.is_connect(4) && !query.is_connect(3)",
+                "name": "west_south",
+                "parent": "table",
+                "pivot": [
+                    -8,
+                    0,
+                    8
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -15,
+                            0,
+                            13
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            2,
+                            12,
+                            2
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    15
+                                ],
+                                "uv_size": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "enable": "!query.is_connect(5) && !query.is_connect(3)",
+                "name": "east_south",
+                "parent": "table",
+                "pivot": [
+                    -8,
+                    0,
+                    8
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -15,
+                            0,
+                            1
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            2,
+                            12,
+                            2
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    15
+                                ],
+                                "uv_size": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    10
+                                ],
+                                "uv_size": [
+                                    1,
+                                    6
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "enable": "!query.is_connect(5) && !query.is_connect(2)",
+                "name": "east_north",
+                "parent": "table",
+                "pivot": [
+                    -8,
+                    0,
+                    8
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -16,
+                            10,
+                            1
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            1,
+                            4,
+                            14
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    9
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    0.5
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    2.0
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    7.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2.0
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    7.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2.0
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    2.0
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "enable": "!query.is_connect(5)",
+                "name": "e",
+                "parent": "table",
+                "pivot": [
+                    -8,
+                    0,
+                    8
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -1,
+                            10,
+                            1
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            1,
+                            4,
+                            14
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    1,
+                                    1
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    7
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    2.0
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    7.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2.0
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    7.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2.0
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    2.0
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "enable": "!query.is_connect(4)",
+                "name": "w",
+                "parent": "table",
+                "pivot": [
+                    -8,
+                    0,
+                    8
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -1,
+                            10,
+                            1
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            -90,
+                            6.678352476723446e-18
+                        ],
+                        "size": [
+                            1,
+                            4,
+                            14
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    1
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    7
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    2.0
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    7.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2.0
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    7.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2.0
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    2.0
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "enable": "!query.is_connect(3)",
+                "name": "s",
+                "parent": "table",
+                "pivot": [
+                    -8,
+                    0,
+                    8
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -16,
+                            10,
+                            1
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            -90,
+                            6.678352476723446e-18
+                        ],
+                        "size": [
+                            1,
+                            4,
+                            14
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    9
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    0.5
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    2.0
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    7.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2.0
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    7.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    0.5,
+                                    2.0
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    0.5,
+                                    7.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    2.0
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "enable": "!query.is_connect(2)",
+                "name": "n",
+                "parent": "table",
+                "pivot": [
+                    -8,
+                    0,
+                    8
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -15.499999999999998,
+                            11,
+                            0.5
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            8
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            14.999999999999998,
+                            2,
+                            15.0
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    8.5,
+                                    8.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    7.0
+                                ]
+                            },
+                            "east": {
+                                "texture": 0,
+                                "uv": [
+                                    8.5,
+                                    8.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    1.0
+                                ]
+                            },
+                            "north": {
+                                "texture": 0,
+                                "uv": [
+                                    8.5,
+                                    8.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    1.0
+                                ]
+                            },
+                            "south": {
+                                "texture": 0,
+                                "uv": [
+                                    8.5,
+                                    8.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    1.0
+                                ]
+                            },
+                            "up": {
+                                "texture": 0,
+                                "uv": [
+                                    15.5,
+                                    15.5
+                                ],
+                                "uv_size": [
+                                    -7.0,
+                                    -7.0
+                                ]
+                            },
+                            "west": {
+                                "texture": 0,
+                                "uv": [
+                                    8.5,
+                                    8.5
+                                ],
+                                "uv_size": [
+                                    7.0,
+                                    1.0
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "name": "bottom",
+                "parent": "table",
+                "pivot": [
+                    -8,
+                    0,
+                    8
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "description": {
+            "identifier": "farm:connect_table",
+            "textures": [
+                "farm:connect_table"
+            ],
+            "use_ao": false
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "gszqq:key2"
+        },
+        "description": {
+            "category": "Construction",
+            "identifier": "gszqq:key2",
+            "register_to_create_menu": true
+        }
+    }
+}

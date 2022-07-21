@@ -1,0 +1,51 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+            "minecraft:block_light_absorption": {
+                "value": 0
+            },
+            "netease:aabb": {
+                "clip": {
+                    "max": [
+                        1.0,
+                        0.813,
+                        1.0
+                    ],
+                    "min": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "collision": {
+                    "max": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "min": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            },
+            "netease:block_entity": {
+                "movable": true,
+                "tick": false
+            },
+            "netease:neighborchanged_sendto_script": {
+                "value": true
+            },
+            "netease:render_layer": {
+                "value": "alpha"
+            }
+        },
+        "description": {
+            "identifier": "customcrop:customcrop_1_stage2",
+            "is_experimental": false,
+            "register_to_creative_menu": true
+        }
+    }
+}

@@ -1,0 +1,22 @@
+﻿{
+    "parent": "pages",
+    "icon": "textures/items/bed_lime",
+    "title": "测试自定义组件",
+    "pages":[
+        {
+            "type": "CustomMod:MyCustomCompPage",
+            "customComp1": {
+                "image": "textures/ui/myCustomBook/testImage_1",
+                "text": "第一个组件的文本，大小为8",
+                "textColor": [1.0, 0.0, 0.0, 1],
+                "textSize": 8
+            },
+            "customComp2": {
+                "image": "textures/ui/myCustomBook/testImage_2",
+                "text": "第二个组件的文本，大小为6",
+                "textColor": [0.0, 0.0, 1.0, 1],
+                "textSize": 6
+            }
+        }
+    ]    
+}

@@ -1,0 +1,6 @@
+{
+    "title": "目录嵌套测试3",
+    "content": "该目录被锁上，点击有提示消息。\n如果不定义lockMsg，\n则默认显示目录的标题。",
+    "isLocked": true,
+    "parent": "subcategoryTest"
+}

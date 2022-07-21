@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "modules": [
+    {
+      "description": "This is a tutorial mod resource_pack by @Hugo",
+      "type": "resources",
+      "uuid": "31be28b8-3884-4443-931e-2e7ba4155365",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "header": {
+    "description": "This is a tutorial mod resource_pack by @Hugo",
+    "name": "TutorialMod",
+    "uuid": "09d65fcb-a7bf-46f3-a078-baf4ed4608a8",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  }
+}

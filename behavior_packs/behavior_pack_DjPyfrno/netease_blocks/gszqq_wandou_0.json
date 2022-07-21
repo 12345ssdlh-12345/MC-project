@@ -1,0 +1,14 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+
+        },
+        "description": {
+            "base_block": "custom_crop_block",
+            "identifier": "gszqq:wandou_0",
+            "is_experimental": false,
+            "register_to_creative_menu": true
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "item": "custombooks:test0",
+    "title1": "农作物种植手册",
+    "title2": "农夫宝典！！！",
+    "content": "详细介绍了农作物的种植条件与方法！\n农夫的宝藏指南~",
+    "titleArea":{
+        "offset": [-10,0],
+        "textSize1": 9,
+        "textSize2":8,         
+        "padding": 1           
+    },
+    "pageConfig": {
+        "subtitle":""
+    }
+
+}

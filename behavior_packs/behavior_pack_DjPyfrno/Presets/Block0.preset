@@ -1,0 +1,15 @@
+{
+    "auxValue": 0,
+    "boxDataList": [],
+    "childParts": [],
+    "childPresets": [],
+    "classType": "BlockPreset",
+    "engineTypeStr": "minecraft:dirt",
+    "forceLoad": false,
+    "name": "Block0",
+    "preLoad": false,
+    "presetId": "42223377-72a9-4486-ae5b-02e97feef23e",
+    "previewEnable": true,
+    "singleton": false,
+    "unique": false
+}

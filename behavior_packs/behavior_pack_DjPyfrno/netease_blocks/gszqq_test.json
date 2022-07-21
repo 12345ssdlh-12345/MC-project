@@ -1,0 +1,26 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+            "minecraft:block_light_absorption": {
+                "value": 0
+            },
+            "minecraft:block_light_emission": {
+                "emission": 0.0
+            },
+            "minecraft:destroy_time": {
+                "value": 1.0
+            },
+            "minecraft:loot": {
+                "table": "loot_tables/test.json"
+            },
+            "netease:solid": {
+                "value": true
+            }
+        },
+        "description": {
+            "identifier": "gszqq:test",
+            "register_to_creative_menu": true
+        }
+    }
+}

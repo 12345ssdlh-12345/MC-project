@@ -1,0 +1,220 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -4,
+                                22,
+                                -3.5
+                            ],
+                            "size": [
+                                8,
+                                5,
+                                7
+                            ],
+                            "uv": [
+                                23,
+                                19
+                            ]
+                        }
+                    ],
+                    "name": "head",
+                    "pivot": [
+                        0,
+                        21.5,
+                        0
+                    ]
+                },
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -4.5,
+                                27.5,
+                                -3
+                            ],
+                            "size": [
+                                9,
+                                2,
+                                6
+                            ],
+                            "uv": [
+                                30,
+                                10
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -6,
+                                26.5,
+                                -4.5
+                            ],
+                            "size": [
+                                12,
+                                1,
+                                9
+                            ],
+                            "uv": [
+                                0,
+                                0
+                            ]
+                        }
+                    ],
+                    "name": "hat",
+                    "parent": "head",
+                    "pivot": [
+                        0,
+                        29,
+                        0
+                    ]
+                },
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -5,
+                                11,
+                                -2.5
+                            ],
+                            "size": [
+                                10,
+                                11,
+                                5
+                            ],
+                            "uv": [
+                                0,
+                                10
+                            ]
+                        }
+                    ],
+                    "name": "BODY",
+                    "pivot": [
+                        0,
+                        16.5,
+                        0
+                    ]
+                },
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -8,
+                                11,
+                                -1.5
+                            ],
+                            "size": [
+                                3,
+                                11,
+                                3
+                            ],
+                            "uv": [
+                                0,
+                                41
+                            ]
+                        }
+                    ],
+                    "name": "ARML",
+                    "pivot": [
+                        -6.5,
+                        21.5,
+                        0
+                    ]
+                },
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                5,
+                                11,
+                                -1.5
+                            ],
+                            "size": [
+                                3,
+                                11,
+                                3
+                            ],
+                            "uv": [
+                                32,
+                                31
+                            ]
+                        }
+                    ],
+                    "name": "ARMR",
+                    "pivot": [
+                        6.5,
+                        21.5,
+                        0
+                    ]
+                },
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                0,
+                                0,
+                                -2
+                            ],
+                            "size": [
+                                4,
+                                11,
+                                4
+                            ],
+                            "uv": [
+                                0,
+                                26
+                            ]
+                        }
+                    ],
+                    "name": "LEGR",
+                    "pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -4,
+                                0,
+                                -2
+                            ],
+                            "size": [
+                                4,
+                                11,
+                                4
+                            ],
+                            "uv": [
+                                16,
+                                31
+                            ]
+                        }
+                    ],
+                    "name": "LEGL",
+                    "pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "description": {
+                "identifier": "geometry.huishoushang",
+                "texture_height": 64,
+                "texture_width": 64,
+                "visible_bounds_height": 3.5,
+                "visible_bounds_offset": [
+                    0,
+                    1.25,
+                    0
+                ],
+                "visible_bounds_width": 2
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:seed": {
+                "crop_result": "beetroot",
+                "plant_at": [
+                    "minecraft:dirt",
+                    "minecraft:grass"
+                ]
+            }
+        },
+        "description": {
+            "category": "Nature",
+            "identifier": "gszqq:qiezi",
+            "register_to_create_menu": false
+        }
+    }
+}

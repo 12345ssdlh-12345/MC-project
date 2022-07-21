@@ -1,0 +1,5 @@
+{
+    "title": "可回收组件",
+    "content": "可回收组件并不要求一定要实现Reset，但是一定要有保存自己状态的操作",
+    "icon":"textures/items/apple"
+}

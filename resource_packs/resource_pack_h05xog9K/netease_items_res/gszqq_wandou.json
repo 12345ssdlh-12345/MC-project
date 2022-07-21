@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "gszqq:wandou"
+        },
+        "description": {
+            "category": "Nature",
+            "identifier": "gszqq:wandou",
+            "register_to_create_menu": true
+        }
+    }
+}

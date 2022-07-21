@@ -1,0 +1,19 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:seed": {
+                "crop_result": "gszqq:corn_stage_0",
+                "plant_at": [
+                    "minecraft:dirt",
+                    "minecraft:sand"
+                ]
+            }
+        },
+        "description": {
+            "category": "Nature",
+            "identifier": "gszqq:corn_seed",
+            "register_to_create_menu": true
+        }
+    }
+}

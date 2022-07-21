@@ -1,0 +1,14 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+
+        },
+        "description": {
+            "identifier": "gszqq:xiangjiao_1",
+            "base_block": "custom_crop_block",
+            "is_experimental": false,
+            "register_to_creative_menu": true
+        }
+    }
+}

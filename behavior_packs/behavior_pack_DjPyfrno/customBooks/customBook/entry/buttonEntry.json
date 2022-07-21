@@ -1,0 +1,16 @@
+{
+    "parent": "pages",
+    "icon": "textures/items/bed_lime",
+    "title": "测试buttonComp",
+    "pages":[
+        {
+            "type": "CustomMod:MyButtonPage",
+            "jumpEntry": "highlightEntry",
+            "pageNum": 0
+        },
+        {
+            "type": "textPage",
+            "content": "第一个按钮是显示消息\n第二个按钮会跳转到\"highlightEntry\"这一章节去"
+        }
+    ]    
+}

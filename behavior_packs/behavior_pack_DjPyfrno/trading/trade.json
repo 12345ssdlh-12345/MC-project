@@ -1,0 +1,28 @@
+{
+    "tiers": [
+      {
+        "groups": [ 
+          {
+            "num_to_select": 1, 
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:gold_ingot", 
+                    "quantity": 1 
+                  }
+                ],
+                "gives": [ 
+                  {
+                    "item": "minecraft:spawn_egg:10", 
+                    "quantity": 1 
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

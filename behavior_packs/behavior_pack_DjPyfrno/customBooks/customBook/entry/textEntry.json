@@ -1,0 +1,17 @@
+﻿{
+    "parent": "pages",
+    "icon": "textures/items/paper",
+    "title": "文本页",
+    "pages":[
+        {
+            "type": "textPage",
+            "title": "文本页",
+            "content": "文本页是最基础的页面，除标题外仅包含文本组件，文本组件仍然是支持格式化文本的。"
+        },
+        {
+            "type": "textPage",
+            "subtitle": "文本页副标题",
+            "content": "§nMinecraft Formatting\n§r§00 §11 §22 §33\n§44 §55 §66 §77\n§88 §99 §aa §bb\n§cc §dd §ee §ff\n§rl §lMinecraft\n§rm §mMinecraft\n§rn §nMinecraft\n§ro §oMinecraft\n§rr §rMinecraft"
+        }
+    ]    
+}

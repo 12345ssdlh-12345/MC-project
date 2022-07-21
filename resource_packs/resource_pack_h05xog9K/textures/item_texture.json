@@ -1,0 +1,120 @@
+{
+    "resource_pack_name": "vanillna",
+    "texture_data": {
+        "custombooks:addrbook": {
+            "textures": "textures/items/addr_book"
+        },
+        "custombooks:recyclebook": {
+            "textures": "textures/items/recycle_book"
+        },
+        "custombooks:test0": {
+            "textures": "textures/items/custom_book"
+        },
+        "customcrop:custom_item": {
+            "textures": "textures/items/customcrop_custom_item"
+        },
+        "customcrop:custom_wheat_seeds": {
+            "textures": "textures/items/customcrop_custom_wheat_seeds"
+        },
+        "farm:apron": {
+            "textures": "textures/items/cloth/apron"
+        },
+        "farm:basketball_jacket": {
+            "textures": "textures/items/cloth/basketball_jacket"
+        },
+        "farm:basketball_shoes": {
+            "textures": "textures/items/cloth/basketball_shoes"
+        },
+        "farm:beret": {
+            "textures": "textures/items/cloth/beret"
+        },
+        "farm:bow_knot": {
+            "textures": "textures/items/cloth/bow_knot"
+        },
+        "farm:canvas_shoes": {
+            "textures": "textures/items/cloth/canvas_shoes"
+        },
+        "farm:casual_shoes": {
+            "textures": "textures/items/cloth/casual_shoes"
+        },
+        "farm:chicken_egg": {
+            "textures": "textures/items/chicken_egg"
+        },
+        "farm:cow_egg": {
+            "textures": "textures/items/cow_egg"
+        },
+        "farm:cowboy_hat": {
+            "textures": "textures/items/cloth/cowboy_hat"
+        },
+        "farm:denim": {
+            "textures": "textures/items/cloth/denim"
+        },
+        "farm:denim_shorts": {
+            "textures": "textures/items/cloth/denim_shorts"
+        },
+        "farm:hip-hop_jacket": {
+            "textures": "textures/items/cloth/hip-hop_jacket"
+        },
+        "farm:knit_cap": {
+            "textures": "textures/items/cloth/knit_cap"
+        },
+        "farm:martin_boots": {
+            "textures": "textures/items/cloth/martin_boots"
+        },
+        "farm:mc_t-shirt": {
+            "textures": "textures/items/cloth/mc_t-shirt"
+        },
+        "farm:pig_egg": {
+            "textures": "textures/items/pig_egg"
+        },
+        "farm:rabbit_egg": {
+            "textures": "textures/items/rabbit_egg"
+        },
+        "farm:scotland_skirt": {
+            "textures": "textures/items/cloth/scotland_skirt"
+        },
+        "farm:sheep_egg": {
+            "textures": "textures/items/sheep_egg"
+        },
+        "farm:short_t-shirt": {
+            "textures": "textures/items/cloth/short_t-shirt"
+        },
+        "farm:slippers": {
+            "textures": "textures/items/cloth/slippers"
+        },
+        "farm:sports_pants": {
+            "textures": "textures/items/cloth/sports_pants"
+        },
+        "farm:tweed_skirt": {
+            "textures": "textures/items/cloth/tweed_skirt"
+        },
+        "gszqq:bocai": {
+            "textures": "textures/items/菠菜种子"
+        },
+        "gszqq:corn": {
+            "textures": "textures/items/玉米物品"
+        },
+        "gszqq:corn_seed": {
+            "textures": "textures/items/玉米种子"
+        },
+        "gszqq:key1": {
+            "textures": "textures/items/lock1"
+        },
+        "gszqq:key2": {
+            "textures": "textures/items/lock2"
+        },
+        "gszqq:key3": {
+            "textures": "textures/items/lock3"
+        },
+        "gszqq:qiezi": {
+            "textures": "textures/items/茄子物品"
+        },
+        "gszqq:wandou": {
+            "textures": "textures/items/豌豆种子"
+        },
+        "gszqq:xiangjiao": {
+            "textures": "textures/items/香蕉种子"
+        }
+    },
+    "texture_name": "atlas.items"
+}

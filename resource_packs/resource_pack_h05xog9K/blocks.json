@@ -1,0 +1,304 @@
+{
+    "customcrop:customcrop_1_stage0": {
+        "netease_model": "customcrop:customcrop_1_stage0",
+        "sound": "grass"
+    },
+    "customcrop:customcrop_1_stage1": {
+        "netease_model": "customcrop:customcrop_1_stage1",
+        "sound": "grass"
+    },
+    "customcrop:customcrop_1_stage2": {
+        "netease_model": "",
+        "sound": "grass"
+    },
+    "customcrop:customcrop_stage0": {
+        "netease_model": "customcrop:customcrop_stage0",
+        "sound": "grass"
+    },
+    "customcrop:customcrop_stage1": {
+        "netease_model": "customcrop:customcrop_stage1",
+        "sound": "grass"
+    },
+    "customcrop:customcrop_stage2": {
+        "netease_model": "customcrop:customcrop_stage2",
+        "sound": "grass"
+    },
+    "farm:acacia_chair": {
+        "sound": "wood"
+    },
+    "farm:acacia_table_lamp": {
+        "sound": "wool"
+    },
+    "farm:acacia_trash_can": {
+        "sound": "wood"
+    },
+    "farm:bambooshoot": {
+        "sound": "wood"
+    },
+    "farm:banana": {
+        "sound": "grass"
+    },
+    "farm:bathtub_head": {
+        "sound": "stone"
+    },
+    "farm:bathtub_tail": {
+        "sound": "stone"
+    },
+    "farm:bear_doll": {
+        "sound": "wool"
+    },
+    "farm:bedside_cupboard": {
+        "sound": "wood"
+    },
+    "farm:big_oak_chair": {
+        "sound": "wood"
+    },
+    "farm:big_oak_trash_can": {
+        "sound": "wood"
+    },
+    "farm:bigoak_table_lamp": {
+        "sound": "wool"
+    },
+    "farm:birch_chair": {
+        "sound": "wood"
+    },
+    "farm:birch_table_lamp": {
+        "sound": "wool"
+    },
+    "farm:birch_trash_can": {
+        "sound": "wood"
+    },
+    "farm:close_stool": {
+        "sound": "stone"
+    },
+    "farm:connect_table": {
+        "netease_model": "farm:connect_table",
+        "sound": "stone"
+    },
+    "farm:corn": {
+        "sound": "grass"
+    },
+    "farm:crimson_chair": {
+        "sound": "wood"
+    },
+    "farm:crimson_table_lamp": {
+        "sound": "wool"
+    },
+    "farm:crimson_trash_can": {
+        "sound": "wood"
+    },
+    "farm:crown_dasiy": {
+        "sound": "grass"
+    },
+    "farm:eggplant": {
+        "sound": "grass"
+    },
+    "farm:juicer": {
+        "sound": "stone"
+    },
+    "farm:jungle_chair": {
+        "sound": "wood"
+    },
+    "farm:jungle_table_lamp": {
+        "sound": "wool"
+    },
+    "farm:jungle_trash_can": {
+        "sound": "wood"
+    },
+    "farm:lemon": {
+        "sound": "grass"
+    },
+    "farm:logo_tv": {
+        "sound": "stone"
+    },
+    "farm:modern_bed_head": {
+        "sound": "wood"
+    },
+    "farm:modern_bed_tail": {
+        "sound": "wood"
+    },
+    "farm:mug": {
+        "sound": "glass"
+    },
+    "farm:oak_chair": {
+        "sound": "wood"
+    },
+    "farm:oak_table_lamp": {
+        "sound": "wool"
+    },
+    "farm:oak_trash_can": {
+        "sound": "wood"
+    },
+    "farm:peas": {
+        "sound": "grass"
+    },
+    "farm:sofa_black": {
+        "netease_model": "farm:sofa_black",
+        "sound": "wool"
+    },
+    "farm:sofa_blue": {
+        "netease_model": "farm:sofa_blue",
+        "sound": "wool"
+    },
+    "farm:sofa_brown": {
+        "netease_model": "farm:sofa_brown",
+        "sound": "wool"
+    },
+    "farm:sofa_cyan": {
+        "netease_model": "farm:sofa_cyan",
+        "sound": "wool"
+    },
+    "farm:sofa_gray": {
+        "netease_model": "farm:sofa_gray",
+        "sound": "wool"
+    },
+    "farm:sofa_light_blue": {
+        "netease_model": "farm:sofa_light_blue",
+        "sound": "wool"
+    },
+    "farm:sofa_light_cyan": {
+        "netease_model": "farm:sofa_light_cyan",
+        "sound": "wool"
+    },
+    "farm:sofa_light_gray": {
+        "netease_model": "farm:sofa_light_gray",
+        "sound": "wool"
+    },
+    "farm:sofa_light_green": {
+        "netease_model": "farm:sofa_light_green",
+        "sound": "wool"
+    },
+    "farm:sofa_orange": {
+        "netease_model": "farm:sofa_orange",
+        "sound": "wool"
+    },
+    "farm:sofa_pink_red": {
+        "netease_model": "farm:sofa_pink_red",
+        "sound": "wool"
+    },
+    "farm:sofa_purple": {
+        "netease_model": "farm:sofa_purple",
+        "sound": "wool"
+    },
+    "farm:sofa_red": {
+        "netease_model": "farm:sofa_red",
+        "sound": "wool"
+    },
+    "farm:sofa_white": {
+        "netease_model": "farm:sofa_white",
+        "sound": "wool"
+    },
+    "farm:sofa_yellow": {
+        "netease_model": "farm:sofa_yellow",
+        "sound": "wool"
+    },
+    "farm:spinach": {
+        "sound": "grass"
+    },
+    "farm:spruce_chair": {
+        "sound": "wood"
+    },
+    "farm:spruce_table_lamp": {
+        "sound": "wool"
+    },
+    "farm:spruce_trash_can": {
+        "sound": "wood"
+    },
+    "farm:warped_chair": {
+        "sound": "wood"
+    },
+    "farm:warped_table_lamp": {
+        "sound": "wool"
+    },
+    "farm:warped_trash_can": {
+        "sound": "wood"
+    },
+    "farm:water_tap": {
+        "sound": "stone"
+    },
+    "farm:whiteradish": {
+        "sound": "grass"
+    },
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "gszqq:block": {
+        "textures": "gszqq:dirt"
+    },
+    "gszqq:bocai_0": {
+        "netease_model": "gszqq:bocai_0",
+        "textures": "gszqq:菠菜_0"
+    },
+    "gszqq:bocai_1": {
+        "netease_model": "gszqq:bocai_1",
+        "textures": "gszqq:菠菜_1"
+    },
+    "gszqq:bocai_2": {
+        "netease_model": "gszqq:bocai_2",
+        "textures": "gszqq:菠菜_2"
+    },
+    "gszqq:corn_stage_0": {
+        "netease_model": "gszqq:corn_stage_0",
+        "textures": "gszqq:玉米_0"
+    },
+    "gszqq:corn_stage_1": {
+        "netease_model": "gszqq:corn_stage_1",
+        "textures": "gszqq:玉米_1"
+    },
+    "gszqq:corn_stage_2": {
+        "netease_model": "gszqq:corn_stage_2",
+        "textures": "gszqq:玉米_2"
+    },
+    "gszqq:qiezi_0": {
+        "netease_model": "gszqq:qiezi_0",
+        "textures": "gszqq:茄子_0"
+    },
+    "gszqq:qiezi_1": {
+        "netease_model": "gszqq:qiezi_1",
+        "textures": "gszqq:茄子_1"
+    },
+    "gszqq:qiezi_2": {
+        "netease_model": "gszqq:qiezi_2",
+        "textures": "gszqq:茄子_2"
+    },
+    "gszqq:test": {
+        "isotropic": {
+
+        },
+        "sound": "stone",
+        "textures": {
+            "down": "gszqq:brah",
+            "east": "gszqq:brah",
+            "north": "gszqq:brah",
+            "south": "gszqq:brah",
+            "up": "gszqq:brah",
+            "west": "gszqq:brah"
+        }
+    },
+    "gszqq:wandou_0": {
+        "netease_model": "gszqq:wandou_0",
+        "textures": "gszqq:豌豆_0"
+    },
+    "gszqq:wandou_1": {
+        "netease_model": "gszqq:wandou_1",
+        "textures": "gszqq:豌豆_1"
+    },
+    "gszqq:wandou_2": {
+        "netease_model": "gszqq:wandou_2",
+        "textures": "gszqq:豌豆_2"
+    },
+    "gszqq:xiangjiao_0": {
+        "netease_model": "gszqq:xiangjiao_0",
+        "textures": "gszqq:香蕉_0"
+    },
+    "gszqq:xiangjiao_1": {
+        "netease_model": "gszqq:xiangjiao_1",
+        "textures": "gszqq:香蕉_1"
+    },
+    "gszqq:xiangjiao_2": {
+        "netease_model": "gszqq:xiangjiao_2",
+        "textures": "gszqq:香蕉_2"
+    }
+}

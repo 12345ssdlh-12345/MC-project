@@ -1,0 +1,32 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+            "netease:transform": {
+                "conditions": {
+                    "brightness": {
+                        "max": 15,
+                        "min": 9
+                    },
+                    "random_tick_count": {
+                        "value": 1
+                    },
+                    "surrouding": {
+                        "radius": 1,
+                        "value": [
+                            "minecraft:dirt",
+                            "minecraft:sand"
+                        ]
+                    }
+                },
+                "result": "gszqq:corn_stage_1"
+            }
+        },
+        "description": {
+            "base_block": "custom_crop_block",
+            "identifier": "gszqq:corn_stage_0",
+            "is_experimental": false,
+            "register_to_creative_menu": true
+        }
+    }
+}

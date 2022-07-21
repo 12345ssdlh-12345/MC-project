@@ -1,0 +1,217 @@
+{
+    "Addon": {
+        "PresetInstanceTreeData": [
+
+        ]
+    },
+    "UI": {
+        "expandData": {
+            "prefab": {
+                "seed_shop.button": [
+                    "/main"
+                ],
+                "seed_shop.grid": [
+                    "/main"
+                ],
+                "seed_shop.grid_button": [
+                    "/main"
+                ],
+                "seed_shop.grid_button1": [
+                    "/main"
+                ],
+                "seed_shop.seed_button": [
+                    "/main"
+                ]
+            },
+            "screen": {
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\58574e35963d4c4b95814166ab10b794\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook.json": [
+                    "/main",
+                    "/main/GameBookPanel",
+                    "/main/GameBookPanel/GameBookBackGround",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/Page1Panel",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/Page1Panel/LuckCubeIcon",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/Page1Panel/BoatIcon",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/ButtonBackground",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/CloseButtonBackground",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/CloseButtonBackground/CloseButton1"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\58574e35963d4c4b95814166ab10b794\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook_1.json": [
+                    "/main",
+                    "/main/GameBookPanel",
+                    "/main/GameBookPanel/GameBookBackGround",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/Page1Panel",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/Page1Panel/BoatIcon",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/ButtonBackground",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/ButtonBackground/PageTurnButton2",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/CloseButtonBackground",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/CloseButtonBackground/CloseButton2"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\58574e35963d4c4b95814166ab10b794\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook_2.json": [
+                    "/main",
+                    "/main/GameBookPanel",
+                    "/main/GameBookPanel/GameBookBackground",
+                    "/main/GameBookPanel/GameBookBackground/Page2",
+                    "/main/GameBookPanel/GameBookBackground/Page2/ReturnButtonBackground",
+                    "/main/GameBookPanel/GameBookBackground/Page2/CloseButtonBackground",
+                    "/main/GameBookPanel/GameBookBackground/Page2/label"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\58574e35963d4c4b95814166ab10b794\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook_3.json": [
+                    "/main",
+                    "/main/GameBookPanel",
+                    "/main/GameBookPanel/GameBookBackground",
+                    "/main/GameBookPanel/GameBookBackground/Page2",
+                    "/main/GameBookPanel/GameBookBackground/Page2/ReturnButtonBackground",
+                    "/main/GameBookPanel/GameBookBackground/Page2/CloseButtonBackground",
+                    "/main/GameBookPanel/GameBookBackground/Page2/label"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\58574e35963d4c4b95814166ab10b794\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook_4.json": [
+                    "/main",
+                    "/main/GameBookPanel",
+                    "/main/GameBookPanel/GameBookBackground",
+                    "/main/GameBookPanel/GameBookBackground/Page2",
+                    "/main/GameBookPanel/GameBookBackground/Page2/CloseButtonBackground"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\58574e35963d4c4b95814166ab10b794\\resource_packs\\resource_pack_h05xog9K\\ui\\chenggong.json": [
+
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\58574e35963d4c4b95814166ab10b794\\resource_packs\\resource_pack_h05xog9K\\ui\\fail.json": [
+
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\58574e35963d4c4b95814166ab10b794\\resource_packs\\resource_pack_h05xog9K\\ui\\house_shop.json": [
+
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\58574e35963d4c4b95814166ab10b794\\resource_packs\\resource_pack_h05xog9K\\ui\\seed_shop.json": [
+                    "/main",
+                    "/main/shop_panel",
+                    "/main/shop_panel/shop_background",
+                    "/main/shop_panel/shop_background/shop_scroll_background",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image(2)",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image(3)"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook.json": [
+
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook_2.json": [
+
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\GameInfo.json": [
+                    "/main",
+                    "/main/GameInfoPanel",
+                    "/main/GameInfoPanel/GameInfoBackground"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\RecycleComps.json": [
+
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\chenggong.json": [
+                    "/main",
+                    "/main/panel",
+                    "/main/panel/image"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\data_ui.json": [
+                    "/main",
+                    "/main/panel",
+                    "/main/panel/image"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\fail.json": [
+                    "/main",
+                    "/main/panel",
+                    "/main/panel/image"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\house_shop.json": [
+                    "/main",
+                    "/main/shop_panel",
+                    "/main/shop_panel/shop_background",
+                    "/main/shop_panel/shop_background/shop_scroll_background",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image(0)",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image(1)",
+                    "/main/shop_panel/shop_background/close_button_background",
+                    "/main/shop_panel/shop_background/buy_button_background",
+                    "/main/shop_panel/shop_background/information_background"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\new_shop.json": [
+                    "/grid_screen",
+                    "/button_screen",
+                    "/button_screen/button_background",
+                    "/button_screen/button_background/button",
+                    "/main",
+                    "/main/shop_panel",
+                    "/main/shop_panel/shop_background",
+                    "/main/shop_panel/shop_background/shop_scroll_background"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\seed_shop.json": [
+                    "/main",
+                    "/main/shop_panel",
+                    "/main/shop_panel/shop_background",
+                    "/main/shop_panel/shop_background/shop_scroll_background",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image(0)",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image(1)",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image(2)",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image(3)",
+                    "/main/shop_panel/shop_background/close_button_background",
+                    "/main/shop_panel/shop_background/buy_button_background",
+                    "/main/shop_panel/shop_background/buy_button_background/buy_button",
+                    "/main/shop_panel/shop_background/information_background"
+                ],
+                "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\ui0.json": [
+
+                ],
+                "E:\\7.18\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook.json": [
+                    "/main",
+                    "/main/GameBookPanel",
+                    "/main/GameBookPanel/GameBookBackGround",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/Page1Panel",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/Page1Panel/LuckCubeIcon",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/Page1Panel/BoatIcon",
+                    "/main/GameBookPanel/GameBookBackGround/GameBookFrame/ButtonBackground"
+                ],
+                "E:\\7.18\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook_2.json": [
+                    "/main",
+                    "/main/GameBookPanel",
+                    "/main/GameBookPanel/GameBookBackground",
+                    "/main/GameBookPanel/GameBookBackground/Page2",
+                    "/main/GameBookPanel/GameBookBackground/Page2/ItemRenderPanel",
+                    "/main/GameBookPanel/GameBookBackground/Page2/label"
+                ],
+                "E:\\7.18\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook_3.json": [
+                    "/main",
+                    "/main/GameBookPanel",
+                    "/main/GameBookPanel/GameBookBackground",
+                    "/main/GameBookPanel/GameBookBackground/Page2"
+                ],
+                "E:\\7.18\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\GameBook_4.json": [
+                    "/main",
+                    "/main/GameBookPanel",
+                    "/main/GameBookPanel/GameBookBackground",
+                    "/main/GameBookPanel/GameBookBackground/Page2",
+                    "/main/GameBookPanel/GameBookBackground/Page2/label"
+                ],
+                "E:\\7.18\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\GameInfo.json": [
+
+                ],
+                "E:\\7.18\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\RecycleComps.json": [
+
+                ],
+                "E:\\7.18\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\house_shop.json": [
+                    "/main",
+                    "/main/shop_panel",
+                    "/main/shop_panel/shop_background",
+                    "/main/shop_panel/shop_background/shop_scroll_background",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image(0)",
+                    "/main/shop_panel/shop_background/shop_scroll_background/image(1)"
+                ],
+                "E:\\7.18\\d9e8b89c5d954143949a2e6bc8ba9792\\resource_packs\\resource_pack_h05xog9K\\ui\\seed_shop.json": [
+
+                ]
+            }
+        },
+        "prefabGroupExpand": [
+
+        ]
+    }
+}

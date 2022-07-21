@@ -1,0 +1,28 @@
+{
+    "description": {
+        "file_type": "bind",
+        "model": "bedrock:fangdichan",
+        "model_type": "bedrock"
+    },
+    "editor": {
+        "show": {
+            "default": true
+        }
+    },
+    "model": {
+        "bedrock:fangdichan": {
+            "animation": {
+
+            },
+            "animation_speed": {
+
+            },
+            "bind": {
+                "default": {
+
+                }
+            }
+        }
+    },
+    "version": "1.1.0"
+}

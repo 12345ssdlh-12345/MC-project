@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "modules": [
+    {
+      "description": "This is a tutorial mod behavior_pack by @Hugo",
+      "type": "data",
+      "uuid": "d244bdbf-9971-4c42-8e67-eb9242baa052",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "header": {
+    "description": "This is a tutorial mod behavior_pack by @Hugo",
+    "name": "TutorialMod",
+    "uuid": "4438247c-22cb-4239-9d2c-2b8c429fca26",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  }
+}

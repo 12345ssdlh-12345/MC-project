@@ -1,0 +1,359 @@
+{
+   "main" : {
+      "absorbs_input" : true,
+      "always_accepts_input" : false,
+      "controls" : [
+         {
+            "GameBookPanel" : {
+               "alpha" : 1.0,
+               "anchor_from" : "center",
+               "anchor_to" : "center",
+               "clip_offset" : [ 0, 0 ],
+               "clips_children" : false,
+               "controls" : [
+                  {
+                     "GameBookBackground" : {
+                        "alpha" : 1.0,
+                        "anchor_from" : "center",
+                        "anchor_to" : "center",
+                        "clip_direction" : "left",
+                        "clip_offset" : [ 0, 0 ],
+                        "clip_ratio" : 0.0,
+                        "clips_children" : false,
+                        "controls" : [
+                           {
+                              "Page2" : {
+                                 "alpha" : 1.0,
+                                 "anchor_from" : "center",
+                                 "anchor_to" : "center",
+                                 "clip_direction" : "left",
+                                 "clip_offset" : [ 0, 0 ],
+                                 "clip_ratio" : 0.0,
+                                 "clips_children" : false,
+                                 "controls" : [
+                                    {
+                                       "ReturnButtonBackground" : {
+                                          "alpha" : 1.0,
+                                          "anchor_from" : "bottom_middle",
+                                          "anchor_to" : "top_middle",
+                                          "clip_direction" : "left",
+                                          "clip_offset" : [ 0, 0 ],
+                                          "clip_ratio" : 0.0,
+                                          "clips_children" : false,
+                                          "controls" : [
+                                             {
+                                                "ReturnButton4@common.button" : {
+                                                   "$control_alpha" : 1.0,
+                                                   "$default_texture" : "textures/ui/arrow",
+                                                   "$hover_texture" : "textures/ui/arrow",
+                                                   "$is_new_nine_slice" : false,
+                                                   "$label_color" : [ 1, 1, 1 ],
+                                                   "$label_font_scale_factor" : 1.0,
+                                                   "$label_font_size" : "large",
+                                                   "$label_layer" : 3,
+                                                   "$label_offset" : [ 0, 0 ],
+                                                   "$label_text" : "",
+                                                   "$nine_slice_buttom" : 0,
+                                                   "$nine_slice_left" : 0,
+                                                   "$nine_slice_right" : 0,
+                                                   "$nine_slice_top" : 0,
+                                                   "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                                   "$pressed_button_name" : "%uiscreen.ReturnButton4",
+                                                   "$pressed_texture" : "textures/ui/arrow_active",
+                                                   "$texture_layer" : 2,
+                                                   "alpha" : 1.0,
+                                                   "anchor_from" : "center",
+                                                   "anchor_to" : "center",
+                                                   "bindings" : [
+                                                      {
+                                                         "binding_collection_name" : "",
+                                                         "binding_condition" : "always_when_visible",
+                                                         "binding_type" : "collection_details"
+                                                      }
+                                                   ],
+                                                   "clip_offset" : [ 0, 0 ],
+                                                   "clips_children" : false,
+                                                   "controls" : [
+                                                      {
+                                                         "default@netease_editor_template_namespace.default" : {}
+                                                      },
+                                                      {
+                                                         "hover@netease_editor_template_namespace.hover" : {}
+                                                      },
+                                                      {
+                                                         "pressed@netease_editor_template_namespace.pressed" : {}
+                                                      },
+                                                      {
+                                                         "button_label@netease_editor_template_namespace.button_label" : {}
+                                                      }
+                                                   ],
+                                                   "draggable" : "not_draggable",
+                                                   "enabled" : true,
+                                                   "is_handle_button_move_event" : true,
+                                                   "layer" : 4,
+                                                   "max_size" : [ 0, 0 ],
+                                                   "min_size" : [ 0, 0 ],
+                                                   "offset" : [ 0, 0 ],
+                                                   "priority" : 0,
+                                                   "propagate_alpha" : false,
+                                                   "size" : [ "70.0%+0.0px", "100.0%x+0.0px" ],
+                                                   "visible" : true
+                                                }
+                                             }
+                                          ],
+                                          "enabled" : true,
+                                          "fill" : false,
+                                          "grayscale" : false,
+                                          "is_new_nine_slice" : false,
+                                          "keep_ratio" : true,
+                                          "layer" : 3,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "nine_slice_buttom" : 0,
+                                          "nine_slice_left" : 0,
+                                          "nine_slice_right" : 0,
+                                          "nine_slice_top" : 0,
+                                          "nineslice_size" : [ 0, 0, 0, 0 ],
+                                          "offset" : [ 0, "2.0%+0.0px" ],
+                                          "priority" : 0,
+                                          "propagate_alpha" : false,
+                                          "size" : [ "10.0%+0.0px", "100.0%x+0.0px" ],
+                                          "texture" : "textures/ui/background_image",
+                                          "type" : "image",
+                                          "uv" : [ 0, 0 ],
+                                          "uv_size" : [ 0, 0 ],
+                                          "visible" : true
+                                       }
+                                    },
+                                    {
+                                       "CloseButtonBackground" : {
+                                          "alpha" : 1.0,
+                                          "anchor_from" : "top_middle",
+                                          "anchor_to" : "bottom_middle",
+                                          "clip_direction" : "left",
+                                          "clip_offset" : [ 0, 0 ],
+                                          "clip_ratio" : 0.0,
+                                          "clips_children" : false,
+                                          "controls" : [
+                                             {
+                                                "CloseButton4@common.button" : {
+                                                   "$control_alpha" : 1.0,
+                                                   "$default_texture" : "textures/ui/close_button_default",
+                                                   "$hover_texture" : "textures/ui/close_button_default",
+                                                   "$is_new_nine_slice" : false,
+                                                   "$label_color" : [ 1, 1, 1 ],
+                                                   "$label_font_scale_factor" : 1.0,
+                                                   "$label_font_size" : "large",
+                                                   "$label_layer" : 3,
+                                                   "$label_offset" : [ 0, 0 ],
+                                                   "$label_text" : "",
+                                                   "$nine_slice_buttom" : 0,
+                                                   "$nine_slice_left" : 0,
+                                                   "$nine_slice_right" : 0,
+                                                   "$nine_slice_top" : 0,
+                                                   "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                                   "$pressed_button_name" : "%uiscreen.CloseButton4",
+                                                   "$pressed_texture" : "textures/ui/close_button_pressed",
+                                                   "$texture_layer" : 2,
+                                                   "alpha" : 1.0,
+                                                   "anchor_from" : "center",
+                                                   "anchor_to" : "center",
+                                                   "bindings" : [
+                                                      {
+                                                         "binding_collection_name" : "",
+                                                         "binding_condition" : "always_when_visible",
+                                                         "binding_type" : "collection_details"
+                                                      }
+                                                   ],
+                                                   "clip_offset" : [ 0, 0 ],
+                                                   "clips_children" : false,
+                                                   "controls" : [
+                                                      {
+                                                         "default@netease_editor_template_namespace.default" : {}
+                                                      },
+                                                      {
+                                                         "hover@netease_editor_template_namespace.hover" : {}
+                                                      },
+                                                      {
+                                                         "pressed@netease_editor_template_namespace.pressed" : {}
+                                                      },
+                                                      {
+                                                         "button_label@netease_editor_template_namespace.button_label" : {}
+                                                      }
+                                                   ],
+                                                   "draggable" : "not_draggable",
+                                                   "enabled" : true,
+                                                   "is_handle_button_move_event" : true,
+                                                   "layer" : 9,
+                                                   "max_size" : [ 0, 0 ],
+                                                   "min_size" : [ 0, 0 ],
+                                                   "offset" : [ 0, 0 ],
+                                                   "priority" : 0,
+                                                   "propagate_alpha" : false,
+                                                   "size" : [ "70.0%+0.0px", "100.0%x+0.0px" ],
+                                                   "visible" : true
+                                                }
+                                             }
+                                          ],
+                                          "enabled" : true,
+                                          "fill" : false,
+                                          "grayscale" : false,
+                                          "is_new_nine_slice" : false,
+                                          "keep_ratio" : true,
+                                          "layer" : 8,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "nine_slice_buttom" : 0,
+                                          "nine_slice_left" : 0,
+                                          "nine_slice_right" : 0,
+                                          "nine_slice_top" : 0,
+                                          "nineslice_size" : [ 0, 0, 0, 0 ],
+                                          "offset" : [ 0, "-2.0%+0.0px" ],
+                                          "priority" : 0,
+                                          "propagate_alpha" : false,
+                                          "size" : [ "10.0%+0.0px", "100.0%x+0.0px" ],
+                                          "texture" : "textures/ui/background_image",
+                                          "type" : "image",
+                                          "uv" : [ 0, 0 ],
+                                          "uv_size" : [ 0, 0 ],
+                                          "visible" : true
+                                       }
+                                    },
+                                    {
+                                       "ItemRenderPanel" : {
+                                          "alpha" : 1.0,
+                                          "anchor_from" : "center",
+                                          "anchor_to" : "center",
+                                          "clip_offset" : [ 0, 0 ],
+                                          "clips_children" : false,
+                                          "controls" : [],
+                                          "enabled" : true,
+                                          "layer" : 13,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ 3.0, -3.0 ],
+                                          "priority" : 0,
+                                          "propagate_alpha" : false,
+                                          "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+                                          "type" : "panel",
+                                          "visible" : true
+                                       }
+                                    },
+                                    {
+                                       "image" : {
+                                          "clip_direction" : "left",
+                                          "clip_ratio" : 0.0,
+                                          "layer" : 1,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ -102.50, 0.0 ],
+                                          "size" : [ 75, 92 ],
+                                          "texture" : "ui/zhongzi",
+                                          "type" : "image",
+                                          "uv" : [ 0, 0 ],
+                                          "uv_size" : [ 0, 0 ]
+                                       }
+                                    },
+                                    {
+                                       "label" : {
+                                          "color" : [ 1, 1, 1 ],
+                                          "controls" : [
+                                             {
+                                                "image" : {
+                                                   "clip_direction" : "left",
+                                                   "clip_ratio" : 0.0,
+                                                   "layer" : 1,
+                                                   "max_size" : [ 0, 0 ],
+                                                   "min_size" : [ 0, 0 ],
+                                                   "offset" : [ 42.0, -38.50 ],
+                                                   "size" : [ 32, 45 ],
+                                                   "texture" : "textures/ui/icon_carrot",
+                                                   "type" : "image",
+                                                   "uv" : [ 0, 0 ],
+                                                   "uv_size" : [ 0, 0 ]
+                                                }
+                                             }
+                                          ],
+                                          "font_type" : "smooth",
+                                          "layer" : 1,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ 47.50, 22.0 ],
+                                          "size" : [ 235, 108 ],
+                                          "text" : "你好！我是种子售货员summer！\n\n在集市里，你可以找到我。\n\n当你有足够的金币时，你可以向我购买相应\n你所需要的种子。",
+                                          "type" : "label"
+                                       }
+                                    }
+                                 ],
+                                 "enabled" : true,
+                                 "fill" : false,
+                                 "grayscale" : false,
+                                 "is_new_nine_slice" : false,
+                                 "keep_ratio" : true,
+                                 "layer" : 2,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "nine_slice_buttom" : 0,
+                                 "nine_slice_left" : 0,
+                                 "nine_slice_right" : 0,
+                                 "nine_slice_top" : 0,
+                                 "nineslice_size" : [ 0, 0, 0, 0 ],
+                                 "offset" : [ 0, 0 ],
+                                 "priority" : 0,
+                                 "propagate_alpha" : false,
+                                 "size" : [ "95.0%+0.0px", "92.0%+0.0px" ],
+                                 "texture" : "textures/ui/enchanting_dark_background",
+                                 "type" : "image",
+                                 "uv" : [ 0, 0 ],
+                                 "uv_size" : [ 0, 0 ],
+                                 "visible" : true
+                              }
+                           }
+                        ],
+                        "enabled" : true,
+                        "fill" : false,
+                        "grayscale" : false,
+                        "is_new_nine_slice" : false,
+                        "keep_ratio" : true,
+                        "layer" : 1,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "nine_slice_buttom" : 0,
+                        "nine_slice_left" : 0,
+                        "nine_slice_right" : 0,
+                        "nine_slice_top" : 0,
+                        "nineslice_size" : [ 0, 0, 0, 0 ],
+                        "offset" : [ 0, 0 ],
+                        "priority" : 0,
+                        "propagate_alpha" : false,
+                        "size" : [ "60.0%+0.0px", "45.0%+0.0px" ],
+                        "texture" : "textures/ui/effect_background",
+                        "type" : "image",
+                        "uv" : [ 0, 0 ],
+                        "uv_size" : [ 0, 0 ],
+                        "visible" : true
+                     }
+                  }
+               ],
+               "enabled" : true,
+               "layer" : 0,
+               "max_size" : [ 0, 0 ],
+               "min_size" : [ 0, 0 ],
+               "offset" : [ 0.0, -2.0 ],
+               "priority" : 0,
+               "propagate_alpha" : false,
+               "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+               "type" : "panel",
+               "visible" : true
+            }
+         }
+      ],
+      "force_render_below" : false,
+      "is_showing_menu" : true,
+      "render_game_behind" : true,
+      "render_only_when_topmost" : true,
+      "should_steal_mouse" : false,
+      "type" : "screen"
+   },
+   "namespace" : "GameBook_3"
+}

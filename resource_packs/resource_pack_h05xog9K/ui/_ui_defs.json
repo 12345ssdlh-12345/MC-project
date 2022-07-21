@@ -1,0 +1,20 @@
+{
+    "ui_defs": [
+        "ui/chenggong.json",
+        "ui/CustomComp.json",
+        "ui/data_ui.json",
+        "ui/fail.json",
+        "ui/fangchanshangjieshao1.json",
+        "ui/GameBook.json",
+        "ui/GameBook_1.json",
+        "ui/GameBook_2.json",
+        "ui/GameBook_3.json",
+        "ui/GameBook_4.json",
+        "ui/GameInfo.json",
+        "ui/house_shop.json",
+        "ui/RecycleComps.json",
+        "ui/seed_shop.json",
+        "ui/ui0.json",
+        "ui/netease_editor_template_namespace.json"
+    ]
+}

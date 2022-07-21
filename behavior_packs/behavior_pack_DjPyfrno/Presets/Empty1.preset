@@ -1,0 +1,13 @@
+{
+    "boxDataList": [],
+    "childParts": [],
+    "childPresets": [],
+    "classType": "PresetBase",
+    "forceLoad": false,
+    "name": "Empty1",
+    "preLoad": false,
+    "presetId": "c930e135-dba6-4f07-9005-8b3690d987a5",
+    "previewEnable": true,
+    "singleton": false,
+    "unique": false
+}

@@ -1,0 +1,6 @@
+{
+    "title": "目录嵌套测试2",
+    "content": "目录嵌套测试的第二个子目录，属性'parent'指定作为父目录的json文件，如果没有该属性，则会视为根目录，在书本首页显示",
+    "isLocked": false,
+    "parent": "subcategoryTest"
+}

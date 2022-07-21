@@ -1,0 +1,80 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:entity": {
+        "component_groups": {
+            "minecraft:exploding": {
+                "minecraft:explode": {
+                    "causes_fire": false,
+                    "destroy_affected_by_griefing": true,
+                    "fuse_length": 0,
+                    "fuse_lit": true,
+                    "power": 1
+                }
+            }
+        },
+        "components": {
+            "minecraft:collision_box": {
+                "height": 0.15,
+                "width": 0.15
+            },
+            "minecraft:persistent": {
+
+            },
+            "minecraft:physics": {
+
+            },
+            "minecraft:projectile": {
+                "anchor": 1,
+                "gravity": 0.0,
+                "hit_sound": "bow.hit",
+                "inertia": 1.0,
+                "liquid_inertia": 1.0,
+                "offset": [
+                    0,
+                    -0.1,
+                    0
+                ],
+                "on_hit": {
+                    "definition_event": {
+                        "affect_projectile": true,
+                        "event_trigger": {
+                            "event": "minecraft:explode",
+                            "target": "self"
+                        }
+                    },
+                    "mob_effect": {
+                        "amplifier": 1,
+                        "durationeasy": 0,
+                        "durationhard": 800,
+                        "durationnormal": 200,
+                        "effect": "wither"
+                    }
+                },
+                "power": 1.2,
+                "shoot_sound": "bow",
+                "shoot_target": false,
+                "uncertainty_base": 7.5,
+                "uncertainty_multiplier": 1
+            },
+            "minecraft:pushable": {
+                "is_pushable": true,
+                "is_pushable_by_piston": true
+            }
+        },
+        "description": {
+            "identifier": "gszqq:entity",
+            "is_experimental": false,
+            "is_spawnable": false,
+            "is_summonable": false
+        },
+        "events": {
+            "minecraft:explode": {
+                "add": {
+                    "component_groups": [
+                        "minecraft:exploding"
+                    ]
+                }
+            }
+        }
+    }
+}

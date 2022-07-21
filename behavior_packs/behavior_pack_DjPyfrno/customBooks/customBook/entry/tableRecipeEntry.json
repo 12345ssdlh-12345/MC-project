@@ -1,0 +1,29 @@
+{
+    "parent": "pages",
+    "icon": "textures/items/egg_blaze",
+    "title": "合成表",
+    "pages":[
+        {
+            "type": "textPage",
+            "title": "文本页",
+            "content": "合成表页除了标题外包含一个合成表组件，一个文本组件作为info说明，一个文本组件作为内容文本"
+        },
+        {
+            "type": "tableRecipePage",
+            "subtitle": "合成表页",
+            "content": "这是一个无序合成表页\n这是一个无序合成表页\n这是一个无序合成表页\n这是一个无序合成表页\n这是一个无序合成表页\n这是一个无序合成表页\n这是一个无序合成表页\n这是一个无序合成表页\n这是一个无序合成表页\n这是一个无序合成表页\n",
+            "recipeId": "minecraft:honey_bottle",
+            "recipeSize": [120, 60],
+            "aux": 0,
+            "info": "合成说明"
+        },
+        {
+            "type": "tableRecipePage",
+            "subtitle": "合成表页",
+            "content": "这是一个有序合成表页",
+            "recipeId": "minecraft:cake",
+            "aux": 0,
+            "info": "合成说明"
+        }
+    ]    
+}

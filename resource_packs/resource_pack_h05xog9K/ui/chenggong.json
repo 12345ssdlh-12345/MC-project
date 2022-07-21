@@ -1,0 +1,166 @@
+{
+   "main" : {
+      "controls" : [
+         {
+            "panel@chenggong.success" : {}
+         }
+      ],
+      "type" : "screen"
+   },
+   "namespace" : "chenggong",
+   "success" : {
+      "controls" : [
+         {
+            "image" : {
+               "clip_direction" : "left",
+               "clip_ratio" : 0.0,
+               "controls" : [
+                  {
+                     "button@common.button" : {
+                        "$control_alpha" : 1.0,
+                        "$default_texture" : "textures/ui/cancel",
+                        "$hover_texture" : "textures/netease/common/image/default",
+                        "$is_new_nine_slice" : false,
+                        "$label_color" : [ 1, 1, 1 ],
+                        "$label_font_scale_factor" : 1.0,
+                        "$label_font_size" : "large",
+                        "$label_layer" : 3,
+                        "$label_offset" : [ 0, 0 ],
+                        "$label_text" : "",
+                        "$nine_slice_buttom" : 0,
+                        "$nine_slice_left" : 0,
+                        "$nine_slice_right" : 0,
+                        "$nine_slice_top" : 0,
+                        "$nineslice_size" : [ 0, 0, 0, 0 ],
+                        "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                        "$pressed_texture" : "textures/netease/common/button/pressed",
+                        "$texture_layer" : 2,
+                        "bindings" : [
+                           {
+                              "binding_collection_name" : "",
+                              "binding_condition" : "always_when_visible",
+                              "binding_type" : "collection_details"
+                           }
+                        ],
+                        "button_mappings" : [],
+                        "controls" : [
+                           {
+                              "default@netease_editor_template_namespace.default" : {}
+                           },
+                           {
+                              "hover@netease_editor_template_namespace.hover" : {}
+                           },
+                           {
+                              "pressed@netease_editor_template_namespace.pressed" : {}
+                           },
+                           {
+                              "button_label@netease_editor_template_namespace.button_label" : {}
+                           }
+                        ],
+                        "default_control" : "default",
+                        "hover_control" : "hover",
+                        "is_handle_button_move_event" : true,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ 3.0, 89.0 ],
+                        "pressed_control" : "pressed",
+                        "size" : [ 80, 50 ],
+                        "type" : "button"
+                     }
+                  },
+                  {
+                     "image" : {
+                        "clip_direction" : "left",
+                        "clip_ratio" : 0.0,
+                        "controls" : [],
+                        "layer" : 6,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ -0.50, -95.50 ],
+                        "size" : [ 55, 49 ],
+                        "texture" : "textures/ui/dressing_room_customization",
+                        "type" : "image",
+                        "uv" : [ 0, 0 ],
+                        "uv_size" : [ 0, 0 ]
+                     }
+                  },
+                  {
+                     "label" : {
+                        "color" : [ 1, 1, 1 ],
+                        "font_size" : "large",
+                        "font_type" : "smooth",
+                        "layer" : 7,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ 2.0, -54.50 ],
+                        "size" : [ 100, 21 ],
+                        "text" : "恭喜！",
+                        "text_alignment" : "center",
+                        "type" : "label"
+                     }
+                  },
+                  {
+                     "label(0)" : {
+                        "color" : [ 1, 1, 1 ],
+                        "font_type" : "smooth",
+                        "layer" : 8,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ 0.0, -23.50 ],
+                        "size" : [ 100, 19 ],
+                        "text" : "恭喜你成功逃出恶魔灵宫",
+                        "text_alignment" : "center",
+                        "type" : "label"
+                     }
+                  },
+                  {
+                     "label(1)" : {
+                        "color" : [ 1, 1, 1 ],
+                        "font_scale_factor" : 1.50,
+                        "font_type" : "smooth",
+                        "layer" : 9,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ 5.0, 35.50 ],
+                        "size" : [ 152, 100 ],
+                        "text" : "本次游戏中你的完成等级是",
+                        "text_alignment" : "center",
+                        "type" : "label"
+                     }
+                  },
+                  {
+                     "image(0)" : {
+                        "clip_direction" : "left",
+                        "clip_ratio" : 0.0,
+                        "layer" : 10,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ 2.0, 31.0 ],
+                        "size" : [ 100, 50 ],
+                        "texture" : "textures/ui/5stars_full_new",
+                        "type" : "image",
+                        "uv" : [ 0, 0 ],
+                        "uv_size" : [ 0, 0 ]
+                     }
+                  }
+               ],
+               "layer" : 1,
+               "max_size" : [ 0, 0 ],
+               "min_size" : [ 0, 0 ],
+               "offset" : [ -0.50, 0.0 ],
+               "size" : [ 198, 256 ],
+               "texture" : "textures/ui/effect_background",
+               "type" : "image",
+               "uv" : [ 0, 0 ],
+               "uv_size" : [ 0, 0 ]
+            }
+         }
+      ],
+      "layer" : 1,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 2.50, -1.0 ],
+      "size" : [ 199, 260 ],
+      "type" : "panel"
+   }
+}

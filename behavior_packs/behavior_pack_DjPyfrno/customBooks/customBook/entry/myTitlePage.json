@@ -1,0 +1,31 @@
+{
+    "parent": "pages",
+    "icon": "textures/items/bed_lime",
+    "title": "测试页With Title",
+    "pages":[
+        {
+            "type": "CustomMod:MyTitlePage",
+            "image": "textures/ui/myCustomBook/testImage",
+            "content1": "第一段文本",
+            "content2": "第二段文本"
+        },
+        {
+            "type": "CustomMod:MyTitlePage",
+            "title": "大标题",
+            "subtitle": "副标题",
+            "image": "textures/ui/myCustomBook/testImage",
+            "content1": "第一段文本",
+            "content2": "第二段文本"            
+        },
+        {
+            "type": "CustomMod:MyTitlePage",
+            "title": {
+                "icon": "textures/items/apple",
+                "text": "带图标的标题"
+            },
+            "image": "textures/ui/myCustomBook/testImage",
+            "content1": "第一段文本",
+            "content2": "第二段文本"              
+        }
+    ]    
+}

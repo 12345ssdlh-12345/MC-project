@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item":{
+        "description":{
+            "identifier": "custombooks:recyclebook",
+            "register_to_create_menu": true,
+            "category": "Nature"
+        },
+        "components":{
+            "minecraft:max_stack_size": 64
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "parent": "pages",
+    "icon": "textures/items/sign",
+    "title": "图片",
+    "pages":[
+        {
+            "type": "textPage",
+            "content": "图片页除了标题外包含一个图片组件，一个文本组件作为info说明，一个文本组件作为内容文本"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "内容页的标题1",
+            "content": "subtitle是内容页的标题，image是图片的路径（摆放到resource_pack的ui文件夹中即可）",
+            "image": "textures/ui/myCustomBook/testImage_1",
+            "info": "图片说明，对应info属性"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "内容页的标题2",
+            "content": "subtitle是内容页的标题，image是图片的路径（摆放到resource_pack的ui文件夹中即可）",
+            "image": "textures/ui/myCustomBook/testImage_2",
+            "info": "图片说明，对应info属性"
+        },       
+        {
+            "type": "imagePage",
+            "subtitle": "内容页的标题3",
+            "content": "subtitle是内容页的标题，image是图片的路径（摆放到resource_pack的ui文件夹中即可）",
+            "image": "textures/ui/myCustomBook/testImage_3",
+            "info": "图片说明，对应info属性"
+        }
+    ]    
+}

@@ -1,0 +1,67 @@
+﻿{
+    "parent": "pages",
+    "icon":  "textures/items/record_wait",
+    "title": "轮播物品页",
+    "pages":[
+        {
+            "type": "textPage",
+            "content": "轮播页除了标题外包含一个轮播组件，一个文本组件作为info说明，一个文本组件作为内容文本。\n轮播组件可以一次设置多个物品，组件就会自动轮播这些物品"
+        },
+        {
+            "type": "highlightPage",
+            "subtitle": "苹果/胡萝卜",
+            "content": "itemData每个元素表示一个物品，\nitem: 物品的identifier，\ndata: 物品的aux值",
+            "info": "物品说明",
+            "itemData": [
+                {
+                    "item": "minecraft:apple",
+                    "data": 0
+                },
+                {
+                    "item": "minecraft:golden_carrot",
+                    "data": 0
+                }
+            ]
+        },
+        {
+            "type": "highlightPage",
+            "subtitle": "面包/营火/骨头",
+            "content": "itemData每个元素表示一个物品，\nitem: 物品的identifier，\ndata: 物品的aux值",
+            "info": "物品说明",
+            "itemData": [
+                {
+                    "item": "minecraft:bread",
+                    "data": 0
+                },
+                {
+                    "item": "minecraft:campfire",
+                    "data": 0
+                },
+                {
+                    "item": "minecraft:bone",
+                    "data": 0                   
+                }
+            ]
+        },
+        {
+            "type": "highlightPage",
+            "subtitle": "工具",
+            "content": "itemData每个元素表示一个物品，\nitem: 物品的identifier，\ndata: 物品的aux值",
+            "info": "物品说明",
+            "itemData": [
+                {
+                    "item": "minecraft:iron_pickaxe",
+                    "data": 0
+                },
+                {
+                    "item": "minecraft:iron_shovel",
+                    "data": 0
+                },
+                {
+                    "item": "minecraft:iron_sword",
+                    "data": 0                    
+                }
+            ]
+        }              
+    ]    
+}

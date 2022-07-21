@@ -1,0 +1,714 @@
+{
+   "main" : {
+      "absorbs_input" : true,
+      "always_accepts_input" : false,
+      "controls" : [
+         {
+            "shop_panel" : {
+               "alpha" : 1.0,
+               "anchor_from" : "center",
+               "anchor_to" : "center",
+               "clip_offset" : [ 0, 0 ],
+               "clips_children" : false,
+               "controls" : [
+                  {
+                     "shop_background" : {
+                        "alpha" : 1.0,
+                        "anchor_from" : "center",
+                        "anchor_to" : "center",
+                        "clip_direction" : "left",
+                        "clip_offset" : [ 0, 0 ],
+                        "clip_ratio" : 0.0,
+                        "clips_children" : false,
+                        "controls" : [
+                           {
+                              "shop_scroll_background" : {
+                                 "alpha" : 1.0,
+                                 "anchor_from" : "top_left",
+                                 "anchor_to" : "top_left",
+                                 "clip_direction" : "left",
+                                 "clip_offset" : [ 0, 0 ],
+                                 "clip_ratio" : 0.0,
+                                 "clips_children" : false,
+                                 "controls" : [
+                                    {
+                                       "image" : {
+                                          "clip_direction" : "left",
+                                          "clip_ratio" : 0.0,
+                                          "controls" : [
+                                             {
+                                                "yvmi_button@common.button" : {
+                                                   "$control_alpha" : 1.0,
+                                                   "$default_texture" : "textures/ui/pocket_button_default",
+                                                   "$hover_texture" : "textures/ui/pocket_button_hover",
+                                                   "$is_new_nine_slice" : false,
+                                                   "$label_color" : [ 1.0, 1.0, 1.0 ],
+                                                   "$label_font_scale_factor" : 1.0,
+                                                   "$label_font_size" : "large",
+                                                   "$label_layer" : 3,
+                                                   "$label_offset" : [ 0, 0 ],
+                                                   "$label_text" : "玉米",
+                                                   "$nine_slice_buttom" : 0,
+                                                   "$nine_slice_left" : 0,
+                                                   "$nine_slice_right" : 0,
+                                                   "$nine_slice_top" : 0,
+                                                   "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                                   "$pressed_button_name" : "%uiscreen.clicked_yvmi_button",
+                                                   "$pressed_texture" : "textures/ui/pocket_button_pressed",
+                                                   "$texture_layer" : 2,
+                                                   "bindings" : [
+                                                      {
+                                                         "binding_collection_name" : "",
+                                                         "binding_condition" : "always_when_visible",
+                                                         "binding_type" : "collection_details"
+                                                      }
+                                                   ],
+                                                   "controls" : [
+                                                      {
+                                                         "default@netease_editor_template_namespace.default" : {}
+                                                      },
+                                                      {
+                                                         "hover@netease_editor_template_namespace.hover" : {}
+                                                      },
+                                                      {
+                                                         "pressed@netease_editor_template_namespace.pressed" : {}
+                                                      },
+                                                      {
+                                                         "button_label@netease_editor_template_namespace.button_label" : {}
+                                                      }
+                                                   ],
+                                                   "default_control" : "default",
+                                                   "hover_control" : "hover",
+                                                   "is_handle_button_move_event" : true,
+                                                   "layer" : 2,
+                                                   "max_size" : [ 0, 0 ],
+                                                   "min_size" : [ 0, 0 ],
+                                                   "offset" : [ 0, 0 ],
+                                                   "pressed_control" : "pressed",
+                                                   "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+                                                   "type" : "button"
+                                                }
+                                             }
+                                          ],
+                                          "layer" : 1,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ 0.0, -50.50 ],
+                                          "size" : [ 100, "20.0%+0.0px" ],
+                                          "texture" : "textures/ui/background_image",
+                                          "type" : "image",
+                                          "uv" : [ 0, 0 ],
+                                          "uv_size" : [ 0, 0 ]
+                                       }
+                                    },
+                                    {
+                                       "image(0)" : {
+                                          "clip_direction" : "left",
+                                          "clip_ratio" : 0.0,
+                                          "controls" : [
+                                             {
+                                                "qiezi_button@common.button" : {
+                                                   "$control_alpha" : 1.0,
+                                                   "$default_texture" : "textures/ui/pocket_button_default",
+                                                   "$hover_texture" : "textures/ui/pocket_button_hover",
+                                                   "$is_new_nine_slice" : false,
+                                                   "$label_color" : [ 1.0, 1.0, 1.0 ],
+                                                   "$label_font_scale_factor" : 1.0,
+                                                   "$label_font_size" : "large",
+                                                   "$label_layer" : 3,
+                                                   "$label_offset" : [ 0, 0 ],
+                                                   "$label_text" : "茄子",
+                                                   "$nine_slice_buttom" : 0,
+                                                   "$nine_slice_left" : 0,
+                                                   "$nine_slice_right" : 0,
+                                                   "$nine_slice_top" : 0,
+                                                   "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                                   "$pressed_button_name" : "%uiscreen.clicked_qiezi_button",
+                                                   "$pressed_texture" : "textures/ui/pocket_button_pressed",
+                                                   "$texture_layer" : 2,
+                                                   "bindings" : [
+                                                      {
+                                                         "binding_collection_name" : "",
+                                                         "binding_condition" : "always_when_visible",
+                                                         "binding_type" : "collection_details"
+                                                      }
+                                                   ],
+                                                   "controls" : [
+                                                      {
+                                                         "default@netease_editor_template_namespace.default" : {}
+                                                      },
+                                                      {
+                                                         "hover@netease_editor_template_namespace.hover" : {}
+                                                      },
+                                                      {
+                                                         "pressed@netease_editor_template_namespace.pressed" : {}
+                                                      },
+                                                      {
+                                                         "button_label@netease_editor_template_namespace.button_label" : {}
+                                                      }
+                                                   ],
+                                                   "default_control" : "default",
+                                                   "hover_control" : "hover",
+                                                   "is_handle_button_move_event" : true,
+                                                   "layer" : 2,
+                                                   "max_size" : [ 0, 0 ],
+                                                   "min_size" : [ 0, 0 ],
+                                                   "offset" : [ 0, 0 ],
+                                                   "pressed_control" : "pressed",
+                                                   "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+                                                   "type" : "button"
+                                                }
+                                             }
+                                          ],
+                                          "layer" : 1,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ 0, -25 ],
+                                          "size" : [ 100, "20.0%+0.0px" ],
+                                          "texture" : "textures/ui/background_image",
+                                          "type" : "image",
+                                          "uv" : [ 0, 0 ],
+                                          "uv_size" : [ 0, 0 ]
+                                       }
+                                    },
+                                    {
+                                       "image(1)" : {
+                                          "clip_direction" : "left",
+                                          "clip_ratio" : 0.0,
+                                          "controls" : [
+                                             {
+                                                "xiangjiao_button@common.button" : {
+                                                   "$control_alpha" : 1.0,
+                                                   "$default_texture" : "textures/ui/pocket_button_default",
+                                                   "$hover_texture" : "textures/ui/pocket_button_hover",
+                                                   "$is_new_nine_slice" : false,
+                                                   "$label_color" : [ 1.0, 1.0, 1.0 ],
+                                                   "$label_font_scale_factor" : 1.0,
+                                                   "$label_font_size" : "large",
+                                                   "$label_layer" : 3,
+                                                   "$label_offset" : [ 0, 0 ],
+                                                   "$label_text" : "香蕉",
+                                                   "$nine_slice_buttom" : 0,
+                                                   "$nine_slice_left" : 0,
+                                                   "$nine_slice_right" : 0,
+                                                   "$nine_slice_top" : 0,
+                                                   "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                                   "$pressed_button_name" : "%uiscreen.clicked_xiangjiao_button",
+                                                   "$pressed_texture" : "textures/ui/pocket_button_pressed",
+                                                   "$texture_layer" : 2,
+                                                   "bindings" : [
+                                                      {
+                                                         "binding_collection_name" : "",
+                                                         "binding_condition" : "always_when_visible",
+                                                         "binding_type" : "collection_details"
+                                                      }
+                                                   ],
+                                                   "controls" : [
+                                                      {
+                                                         "default@netease_editor_template_namespace.default" : {}
+                                                      },
+                                                      {
+                                                         "hover@netease_editor_template_namespace.hover" : {}
+                                                      },
+                                                      {
+                                                         "pressed@netease_editor_template_namespace.pressed" : {}
+                                                      },
+                                                      {
+                                                         "button_label@netease_editor_template_namespace.button_label" : {}
+                                                      }
+                                                   ],
+                                                   "default_control" : "default",
+                                                   "hover_control" : "hover",
+                                                   "is_handle_button_move_event" : true,
+                                                   "layer" : 2,
+                                                   "max_size" : [ 0, 0 ],
+                                                   "min_size" : [ 0, 0 ],
+                                                   "offset" : [ 0, 0 ],
+                                                   "pressed_control" : "pressed",
+                                                   "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+                                                   "type" : "button"
+                                                }
+                                             }
+                                          ],
+                                          "layer" : 1,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ 0, 0 ],
+                                          "size" : [ 100, "20.0%+0.0px" ],
+                                          "texture" : "textures/ui/background_image",
+                                          "type" : "image",
+                                          "uv" : [ 0, 0 ],
+                                          "uv_size" : [ 0, 0 ]
+                                       }
+                                    },
+                                    {
+                                       "image(2)" : {
+                                          "clip_direction" : "left",
+                                          "clip_ratio" : 0.0,
+                                          "controls" : [
+                                             {
+                                                "zhusun_button@common.button" : {
+                                                   "$control_alpha" : 1.0,
+                                                   "$default_texture" : "textures/ui/pocket_button_default",
+                                                   "$hover_texture" : "textures/ui/pocket_button_hover",
+                                                   "$is_new_nine_slice" : false,
+                                                   "$label_color" : [ 1.0, 1.0, 1.0 ],
+                                                   "$label_font_scale_factor" : 1.0,
+                                                   "$label_font_size" : "large",
+                                                   "$label_layer" : 3,
+                                                   "$label_offset" : [ 0, 0 ],
+                                                   "$label_text" : "豌豆",
+                                                   "$nine_slice_buttom" : 0,
+                                                   "$nine_slice_left" : 0,
+                                                   "$nine_slice_right" : 0,
+                                                   "$nine_slice_top" : 0,
+                                                   "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                                   "$pressed_button_name" : "%uiscreen.clicked_zhusun_button",
+                                                   "$pressed_texture" : "textures/ui/pocket_button_pressed",
+                                                   "$texture_layer" : 2,
+                                                   "bindings" : [
+                                                      {
+                                                         "binding_collection_name" : "",
+                                                         "binding_condition" : "always_when_visible",
+                                                         "binding_type" : "collection_details"
+                                                      }
+                                                   ],
+                                                   "controls" : [
+                                                      {
+                                                         "default@netease_editor_template_namespace.default" : {}
+                                                      },
+                                                      {
+                                                         "hover@netease_editor_template_namespace.hover" : {}
+                                                      },
+                                                      {
+                                                         "pressed@netease_editor_template_namespace.pressed" : {}
+                                                      },
+                                                      {
+                                                         "button_label@netease_editor_template_namespace.button_label" : {}
+                                                      }
+                                                   ],
+                                                   "default_control" : "default",
+                                                   "hover_control" : "hover",
+                                                   "is_handle_button_move_event" : true,
+                                                   "layer" : 2,
+                                                   "max_size" : [ 0, 0 ],
+                                                   "min_size" : [ 0, 0 ],
+                                                   "offset" : [ 0, 0 ],
+                                                   "pressed_control" : "pressed",
+                                                   "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+                                                   "type" : "button"
+                                                }
+                                             }
+                                          ],
+                                          "layer" : 1,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ 0.0, 25 ],
+                                          "size" : [ 100, "20.0%+0.0px" ],
+                                          "texture" : "textures/ui/background_image",
+                                          "type" : "image",
+                                          "uv" : [ 0, 0 ],
+                                          "uv_size" : [ 0, 0 ]
+                                       }
+                                    },
+                                    {
+                                       "image(3)" : {
+                                          "clip_direction" : "left",
+                                          "clip_ratio" : 0.0,
+                                          "controls" : [
+                                             {
+                                                "pingguo_button@common.button" : {
+                                                   "$control_alpha" : 1.0,
+                                                   "$default_texture" : "textures/ui/pocket_button_default",
+                                                   "$hover_texture" : "textures/ui/pocket_button_hover",
+                                                   "$is_new_nine_slice" : false,
+                                                   "$label_color" : [ 1.0, 1.0, 1.0 ],
+                                                   "$label_font_scale_factor" : 1.0,
+                                                   "$label_font_size" : "large",
+                                                   "$label_layer" : 3,
+                                                   "$label_offset" : [ 0, 0 ],
+                                                   "$label_text" : "菠菜",
+                                                   "$nine_slice_buttom" : 0,
+                                                   "$nine_slice_left" : 0,
+                                                   "$nine_slice_right" : 0,
+                                                   "$nine_slice_top" : 0,
+                                                   "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                                   "$pressed_button_name" : "%uiscreen.clicked_pingguo_button",
+                                                   "$pressed_texture" : "textures/ui/pocket_button_pressed",
+                                                   "$texture_layer" : 2,
+                                                   "bindings" : [
+                                                      {
+                                                         "binding_collection_name" : "",
+                                                         "binding_condition" : "always_when_visible",
+                                                         "binding_type" : "collection_details"
+                                                      }
+                                                   ],
+                                                   "controls" : [
+                                                      {
+                                                         "default@netease_editor_template_namespace.default" : {}
+                                                      },
+                                                      {
+                                                         "hover@netease_editor_template_namespace.hover" : {}
+                                                      },
+                                                      {
+                                                         "pressed@netease_editor_template_namespace.pressed" : {}
+                                                      },
+                                                      {
+                                                         "button_label@netease_editor_template_namespace.button_label" : {}
+                                                      }
+                                                   ],
+                                                   "default_control" : "default",
+                                                   "hover_control" : "hover",
+                                                   "is_handle_button_move_event" : true,
+                                                   "layer" : 2,
+                                                   "max_size" : [ 0, 0 ],
+                                                   "min_size" : [ 0, 0 ],
+                                                   "offset" : [ 0, 0 ],
+                                                   "pressed_control" : "pressed",
+                                                   "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+                                                   "type" : "button"
+                                                }
+                                             }
+                                          ],
+                                          "layer" : 1,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ 0.0, 51 ],
+                                          "size" : [ 100, "20.0%+0.0px" ],
+                                          "texture" : "textures/ui/background_image",
+                                          "type" : "image",
+                                          "uv" : [ 0, 0 ],
+                                          "uv_size" : [ 0, 0 ]
+                                       }
+                                    }
+                                 ],
+                                 "enabled" : true,
+                                 "fill" : false,
+                                 "grayscale" : false,
+                                 "is_new_nine_slice" : false,
+                                 "keep_ratio" : true,
+                                 "layer" : 2,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "nine_slice_buttom" : 0,
+                                 "nine_slice_left" : 0,
+                                 "nine_slice_right" : 0,
+                                 "nine_slice_top" : 0,
+                                 "nineslice_size" : [ 0, 0, 0, 0 ],
+                                 "offset" : [ 2, 2 ],
+                                 "propagate_alpha" : false,
+                                 "size" : [ "35.0%+-4.0px", "100.0%+-4.0px" ],
+                                 "texture" : "textures/ui/promo_background",
+                                 "type" : "image",
+                                 "uv" : [ 0, 0 ],
+                                 "uv_size" : [ 0, 0 ],
+                                 "visible" : true
+                              }
+                           },
+                           {
+                              "close_button_background" : {
+                                 "alpha" : 1.0,
+                                 "anchor_from" : "top_right",
+                                 "anchor_to" : "top_right",
+                                 "clip_direction" : "left",
+                                 "clip_offset" : [ 0, 0 ],
+                                 "clip_ratio" : 0.0,
+                                 "clips_children" : false,
+                                 "controls" : [
+                                    {
+                                       "close_button@common.button" : {
+                                          "$control_alpha" : 1.0,
+                                          "$default_texture" : "textures/ui/close_button_default",
+                                          "$hover_texture" : "textures/ui/close_button_default_light",
+                                          "$is_new_nine_slice" : false,
+                                          "$label_color" : [ 1, 1, 1 ],
+                                          "$label_font_scale_factor" : 1.0,
+                                          "$label_font_size" : "large",
+                                          "$label_layer" : 3,
+                                          "$label_offset" : [ 0, 0 ],
+                                          "$label_text" : "",
+                                          "$nine_slice_buttom" : 0,
+                                          "$nine_slice_left" : 0,
+                                          "$nine_slice_right" : 0,
+                                          "$nine_slice_top" : 0,
+                                          "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                          "$pressed_button_name" : "%uiscreen.clicked_close_button",
+                                          "$pressed_texture" : "textures/ui/close_button_default_light",
+                                          "$texture_layer" : 2,
+                                          "alpha" : 1.0,
+                                          "anchor_from" : "center",
+                                          "anchor_to" : "center",
+                                          "bindings" : [
+                                             {
+                                                "binding_collection_name" : "",
+                                                "binding_condition" : "always_when_visible",
+                                                "binding_type" : "collection_details"
+                                             }
+                                          ],
+                                          "clip_offset" : [ 0, 0 ],
+                                          "clips_children" : false,
+                                          "controls" : [
+                                             {
+                                                "default@netease_editor_template_namespace.default" : {}
+                                             },
+                                             {
+                                                "hover@netease_editor_template_namespace.hover" : {}
+                                             },
+                                             {
+                                                "pressed@netease_editor_template_namespace.pressed" : {}
+                                             }
+                                          ],
+                                          "draggable" : "not_draggable",
+                                          "enabled" : true,
+                                          "is_handle_button_move_event" : true,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ 0, 0 ],
+                                          "propagate_alpha" : false,
+                                          "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+                                          "visible" : true
+                                       }
+                                    }
+                                 ],
+                                 "enabled" : true,
+                                 "fill" : false,
+                                 "grayscale" : false,
+                                 "is_new_nine_slice" : false,
+                                 "keep_ratio" : true,
+                                 "layer" : 6,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "nine_slice_buttom" : 0,
+                                 "nine_slice_left" : 0,
+                                 "nine_slice_right" : 0,
+                                 "nine_slice_top" : 0,
+                                 "nineslice_size" : [ 0, 0, 0, 0 ],
+                                 "offset" : [ 0, 0 ],
+                                 "propagate_alpha" : false,
+                                 "size" : [ "10.0%+0.0px", "100.0%x+0.0px" ],
+                                 "texture" : "textures/ui/background_image",
+                                 "type" : "image",
+                                 "uv" : [ 0, 0 ],
+                                 "uv_size" : [ 0, 0 ],
+                                 "visible" : true
+                              }
+                           },
+                           {
+                              "buy_button_background" : {
+                                 "alpha" : 1.0,
+                                 "anchor_from" : "bottom_middle",
+                                 "anchor_to" : "bottom_middle",
+                                 "clip_direction" : "left",
+                                 "clip_offset" : [ 0, 0 ],
+                                 "clip_ratio" : 0.0,
+                                 "clips_children" : false,
+                                 "controls" : [
+                                    {
+                                       "buy_button@common.button" : {
+                                          "$control_alpha" : 1.0,
+                                          "$default_texture" : "textures/ui/pocket_button_default",
+                                          "$hover_texture" : "textures/ui/pocket_button_hover",
+                                          "$is_new_nine_slice" : false,
+                                          "$label_color" : [ 1, 1, 1 ],
+                                          "$label_font_scale_factor" : 1.0,
+                                          "$label_font_size" : "large",
+                                          "$label_layer" : 20,
+                                          "$label_offset" : [ 0, 0 ],
+                                          "$label_text" : "点击购买",
+                                          "$nine_slice_buttom" : 0,
+                                          "$nine_slice_left" : 0,
+                                          "$nine_slice_right" : 0,
+                                          "$nine_slice_top" : 0,
+                                          "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                          "$pressed_button_name" : "%uiscreen.buy_button_clicked",
+                                          "$pressed_texture" : "textures/ui/pocket_button_pressed",
+                                          "$texture_layer" : 2,
+                                          "alpha" : 1.0,
+                                          "anchor_from" : "center",
+                                          "anchor_to" : "center",
+                                          "bindings" : [
+                                             {
+                                                "binding_collection_name" : "",
+                                                "binding_condition" : "always_when_visible",
+                                                "binding_type" : "collection_details"
+                                             }
+                                          ],
+                                          "clip_offset" : [ 0, 0 ],
+                                          "clips_children" : false,
+                                          "controls" : [
+                                             {
+                                                "default@netease_editor_template_namespace.default" : {}
+                                             },
+                                             {
+                                                "hover@netease_editor_template_namespace.hover" : {}
+                                             },
+                                             {
+                                                "pressed@netease_editor_template_namespace.pressed" : {}
+                                             },
+                                             {
+                                                "buy_button_label" : {
+                                                   "alpha" : "$control_alpha",
+                                                   "color" : "$label_color",
+                                                   "controls" : [],
+                                                   "font_scale_factor" : "$label_font_scale_factor",
+                                                   "font_size" : "$label_font_size",
+                                                   "font_type" : "smooth",
+                                                   "layer" : "$label_layer",
+                                                   "max_size" : [ "100%", "100%" ],
+                                                   "offset" : "$label_offset",
+                                                   "shadow" : false,
+                                                   "text" : "点击购买",
+                                                   "text_alignment" : "center",
+                                                   "type" : "label"
+                                                }
+                                             }
+                                          ],
+                                          "draggable" : "not_draggable",
+                                          "enabled" : true,
+                                          "is_handle_button_move_event" : true,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ 0, 0 ],
+                                          "propagate_alpha" : false,
+                                          "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+                                          "visible" : true
+                                       }
+                                    }
+                                 ],
+                                 "enabled" : true,
+                                 "fill" : false,
+                                 "grayscale" : false,
+                                 "is_new_nine_slice" : false,
+                                 "keep_ratio" : true,
+                                 "layer" : 4,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "nine_slice_buttom" : 0,
+                                 "nine_slice_left" : 0,
+                                 "nine_slice_right" : 0,
+                                 "nine_slice_top" : 0,
+                                 "nineslice_size" : [ 0, 0, 0, 0 ],
+                                 "offset" : [ "17.0%+0.0px", -5 ],
+                                 "propagate_alpha" : false,
+                                 "size" : [ "60.0%+0.0px", "20.0%+0.0px" ],
+                                 "texture" : "textures/ui/promo_background",
+                                 "type" : "image",
+                                 "uv" : [ 0, 0 ],
+                                 "uv_size" : [ 0, 0 ],
+                                 "visible" : true
+                              }
+                           },
+                           {
+                              "information_background" : {
+                                 "alpha" : 1.0,
+                                 "anchor_from" : "top_middle",
+                                 "anchor_to" : "top_middle",
+                                 "clip_direction" : "left",
+                                 "clip_offset" : [ 0, 0 ],
+                                 "clip_ratio" : 0.0,
+                                 "clips_children" : false,
+                                 "controls" : [
+                                    {
+                                       "item_information" : {
+                                          "alpha" : 1.0,
+                                          "anchor_from" : "top_left",
+                                          "anchor_to" : "top_left",
+                                          "bindings" : [
+                                             {
+                                                "binding_condition" : "always_when_visible",
+                                                "binding_name" : "#shop_information",
+                                                "binding_name_override" : "#text"
+                                             }
+                                          ],
+                                          "clip_offset" : [ 0, 0 ],
+                                          "clips_children" : false,
+                                          "color" : [ 1, 1, 1 ],
+                                          "controls" : [],
+                                          "enabled" : true,
+                                          "font_scale_factor" : 1.0,
+                                          "font_size" : "normal",
+                                          "font_type" : "smooth",
+                                          "layer" : 1,
+                                          "line_padding" : 0.0,
+                                          "max_size" : [ 0, 0 ],
+                                          "min_size" : [ 0, 0 ],
+                                          "offset" : [ 5, 5 ],
+                                          "propagate_alpha" : false,
+                                          "shadow" : false,
+                                          "size" : [ "75.0%+0.0px", "75.0%+0.0px" ],
+                                          "text" : "#text",
+                                          "text_alignment" : "left",
+                                          "type" : "label",
+                                          "visible" : true
+                                       }
+                                    }
+                                 ],
+                                 "enabled" : true,
+                                 "fill" : false,
+                                 "grayscale" : false,
+                                 "is_new_nine_slice" : false,
+                                 "keep_ratio" : true,
+                                 "layer" : 5,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "nine_slice_buttom" : 0,
+                                 "nine_slice_left" : 0,
+                                 "nine_slice_right" : 0,
+                                 "nine_slice_top" : 0,
+                                 "nineslice_size" : [ 0, 0, 0, 0 ],
+                                 "offset" : [ "17.0%+0.0px", 4 ],
+                                 "propagate_alpha" : false,
+                                 "size" : [ "60.0%+0.0px", "70.0%+0.0px" ],
+                                 "texture" : "textures/ui/mob_effect_background",
+                                 "type" : "image",
+                                 "uv" : [ 0, 0 ],
+                                 "uv_size" : [ 0, 0 ],
+                                 "visible" : true
+                              }
+                           }
+                        ],
+                        "enabled" : true,
+                        "fill" : false,
+                        "grayscale" : false,
+                        "is_new_nine_slice" : false,
+                        "keep_ratio" : true,
+                        "layer" : 1,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "nine_slice_buttom" : 0,
+                        "nine_slice_left" : 0,
+                        "nine_slice_right" : 0,
+                        "nine_slice_top" : 0,
+                        "nineslice_size" : [ 0, 0, 0, 0 ],
+                        "offset" : [ 0.0, 5.50 ],
+                        "propagate_alpha" : false,
+                        "size" : [ "100.0%+0.0px", "100.0%+11.0px" ],
+                        "texture" : "textures/ui/background_image",
+                        "type" : "image",
+                        "uv" : [ 0, 0 ],
+                        "uv_size" : [ 0, 0 ],
+                        "visible" : true
+                     }
+                  }
+               ],
+               "enabled" : true,
+               "layer" : 0,
+               "max_size" : [ 0, 0 ],
+               "min_size" : [ 0, 0 ],
+               "offset" : [ 0, 0 ],
+               "propagate_alpha" : false,
+               "size" : [ "75.0%+0.0px", "55.0%+0.0px" ],
+               "type" : "panel",
+               "visible" : true
+            }
+         }
+      ],
+      "force_render_below" : false,
+      "is_showing_menu" : true,
+      "render_game_behind" : true,
+      "render_only_when_topmost" : true,
+      "should_steal_mouse" : false,
+      "type" : "screen"
+   },
+   "namespace" : "new_shop"
+}

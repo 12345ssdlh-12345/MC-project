@@ -1,0 +1,14 @@
+{
+    "parent": "pages",
+    "icon": "textures/items/bed_lime",
+    "title": "测试页No Title",
+    "pages":[
+        {
+            "type": "CustomMod:MyNoTitlePage",
+            "testTitle": "标题文本",
+            "image": "textures/ui/myCustomBook/testImage",
+            "content1": "第一段文本",
+            "content2": "第二段文本"
+        }
+    ]    
+}

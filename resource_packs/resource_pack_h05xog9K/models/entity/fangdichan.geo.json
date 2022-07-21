@@ -1,0 +1,169 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -4,
+                                22,
+                                -2.5
+                            ],
+                            "size": [
+                                8,
+                                5,
+                                5
+                            ],
+                            "uv": [
+                                0,
+                                27
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -5,
+                                11,
+                                -2.5
+                            ],
+                            "size": [
+                                10,
+                                11,
+                                5
+                            ],
+                            "uv": [
+                                0,
+                                11
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -4,
+                                0,
+                                -2
+                            ],
+                            "size": [
+                                4,
+                                11,
+                                4
+                            ],
+                            "uv": [
+                                0,
+                                37
+                            ]
+                        },
+                        {
+                            "origin": [
+                                0,
+                                0,
+                                -2
+                            ],
+                            "size": [
+                                4,
+                                11,
+                                4
+                            ],
+                            "uv": [
+                                26,
+                                31
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -8,
+                                11,
+                                -1.5
+                            ],
+                            "size": [
+                                3,
+                                11,
+                                3
+                            ],
+                            "uv": [
+                                42,
+                                31
+                            ]
+                        },
+                        {
+                            "origin": [
+                                5,
+                                11,
+                                -1.5
+                            ],
+                            "size": [
+                                3,
+                                11,
+                                3
+                            ],
+                            "uv": [
+                                42,
+                                0
+                            ]
+                        }
+                    ],
+                    "name": "bb_main",
+                    "pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -4.5,
+                                28.5,
+                                -3
+                            ],
+                            "size": [
+                                9,
+                                4,
+                                6
+                            ],
+                            "uv": [
+                                24,
+                                21
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -6,
+                                26.5,
+                                -4.5
+                            ],
+                            "size": [
+                                12,
+                                2,
+                                9
+                            ],
+                            "uv": [
+                                0,
+                                0
+                            ]
+                        }
+                    ],
+                    "name": "hat",
+                    "pivot": [
+                        5,
+                        -0.5,
+                        -5
+                    ]
+                }
+            ],
+            "description": {
+                "identifier": "geometry.fangdichan",
+                "texture_height": 64,
+                "texture_width": 64,
+                "visible_bounds_height": 3.5,
+                "visible_bounds_offset": [
+                    0,
+                    1.25,
+                    0
+                ],
+                "visible_bounds_width": 2
+            }
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+   "main" : {
+      "controls" : [
+         {
+            "panel" : {
+               "alpha" : 1.0,
+               "anchor_from" : "top_right",
+               "anchor_to" : "top_right",
+               "clip_offset" : [ 0, 0 ],
+               "clips_children" : false,
+               "controls" : [
+                  {
+                     "image" : {
+                        "alpha" : 0.340,
+                        "clip_direction" : "left",
+                        "clip_ratio" : 0.0,
+                        "color" : [ 1.0, 1.0, 1.0 ],
+                        "controls" : [
+                           {
+                              "image" : {
+                                 "clip_direction" : "left",
+                                 "clip_ratio" : 0.0,
+                                 "layer" : 1,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "offset" : [ 0, 0 ],
+                                 "size" : [ 0, 0 ],
+                                 "texture" : "textures/netease/common/image/default",
+                                 "type" : "image",
+                                 "uv" : [ 0, 0 ],
+                                 "uv_size" : [ 0, 0 ]
+                              }
+                           },
+                           {
+                              "image(0)" : {
+                                 "clip_direction" : "left",
+                                 "clip_ratio" : 0.0,
+                                 "layer" : 2,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "offset" : [ -36.0, 18.50 ],
+                                 "size" : [ "30.0%+3.0px", "30.0%+5.0px" ],
+                                 "texture" : "textures/ui/accessibility_glyph_color",
+                                 "type" : "image",
+                                 "uv" : [ 0, 0 ],
+                                 "uv_size" : [ 0, 0 ]
+                              }
+                           },
+                           {
+                              "image(1)" : {
+                                 "clip_direction" : "left",
+                                 "clip_ratio" : 0.0,
+                                 "layer" : 3,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "offset" : [ -36.0, -14.0 ],
+                                 "size" : [ "30.0%+38.0px", "30.0%+26.0px" ],
+                                 "texture" : "ui/coin",
+                                 "type" : "image",
+                                 "uv" : [ 0, 0 ],
+                                 "uv_size" : [ 0, 0 ]
+                              }
+                           }
+                        ],
+                        "layer" : 1,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ 0.0, 2.0 ],
+                        "size" : [ "100.0%+0.0px", "100.0%+0.0px" ],
+                        "texture" : "textures/ui/background_image",
+                        "type" : "image",
+                        "uv" : [ 0, 0 ],
+                        "uv_size" : [ 0, 0 ]
+                     }
+                  },
+                  {
+                     "money_label" : {
+                        "bindings" : [
+                           {
+                              "binding_condition" : "always_when_visible",
+                              "binding_name" : "#money_text",
+                              "binding_name_override" : "#text"
+                           }
+                        ],
+                        "color" : [ 1, 1, 1 ],
+                        "font_type" : "smooth",
+                        "layer" : 5,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ 17.0, -9.50 ],
+                        "size" : [ "40.0%+0.0px", "20.0%+1.0px" ],
+                        "text" : "#text",
+                        "text_alignment" : "center",
+                        "type" : "label"
+                     }
+                  },
+                  {
+                     "house_label" : {
+                        "bindings" : [
+                           {
+                              "binding_condition" : "always_when_visible",
+                              "binding_name" : "#house_text",
+                              "binding_name_override" : "#text"
+                           }
+                        ],
+                        "color" : [ 1, 1, 1 ],
+                        "font_type" : "smooth",
+                        "layer" : 6,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ 17.0, 20.0 ],
+                        "size" : [ "40.0%+0.0px", "20.0%+0.0px" ],
+                        "text" : "#text",
+                        "text_alignment" : "center",
+                        "type" : "label"
+                     }
+                  }
+               ],
+               "enabled" : true,
+               "layer" : 1,
+               "max_size" : [ 0, 0 ],
+               "min_size" : [ 0, 0 ],
+               "offset" : [ -2.0, 1.0 ],
+               "priority" : 0,
+               "propagate_alpha" : false,
+               "size" : [ "30.0%+0.0px", "30.0%+0.0px" ],
+               "type" : "panel",
+               "visible" : true
+            }
+         }
+      ],
+      "type" : "screen"
+   },
+   "namespace" : "data_ui"
+}

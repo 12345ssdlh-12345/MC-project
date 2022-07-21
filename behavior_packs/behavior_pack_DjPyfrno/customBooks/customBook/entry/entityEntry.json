@@ -1,0 +1,33 @@
+{
+    "parent": "pages",
+    "icon": "textures/items/rotten_flesh",
+    "title": "实体",
+    "pages":[
+        {
+            "type": "textPage",
+            "content": "实体页除了标题外包含一个实体渲染组件，一个文本组件作为info说明，一个文本组件作为内容文本"
+        },
+        {
+            "type": "entityPage",
+            "subtitle": "entity page",
+            "content": "这是一只喵",
+            "info": "实体说明",
+            "entity": {
+                "name": "minecraft:cat",
+                "molang_dict":  {"variable.state": 2, "variable.liedownamount": 1},
+                "offset": [0, -20]
+            }            
+        },
+        {
+            "type": "entityPage",
+            "subtitle": "entity page",
+            "content": "这是只牛",
+            "info": "实体说明",
+            "entity": {
+                "name": "minecraft:cow",
+                "molang_dict":  {},
+                "offset": [0, -20]
+            }            
+        }       
+    ]    
+}

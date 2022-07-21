@@ -1,0 +1,29 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+            "minecraft:block_light_absorption": {
+                "value": 0
+            },
+            "netease:connection": {
+                "blocks": [
+                    "farm:sofa_brown"
+                ]
+            },
+            "netease:face_directional": {
+                "type": "direction"
+            },
+            "netease:render_layer": {
+                "value": "alpha"
+            },
+            "netease:solid": {
+                "value": false
+            }
+        },
+        "description": {
+            "identifier": "farm:sofa_brown",
+            "is_experimental": false,
+            "register_to_creative_menu": true
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Account": "1641694259@qq.com",
+    "AssertCacheDir": "C:\\MCStudioDownload\\EngineAssert",
+    "BlockNums": [
+        0,
+        0
+    ],
+    "BornPoint": [
+        0,
+        0,
+        0
+    ],
+    "CreateNew": false,
+    "CreateVersion": "2.2.0.88272",
+    "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+    "EditAddOnPaths": [
+
+    ],
+    "EditLogFilePath": "C:\\MCStudioDownload\\work\\editor\\edit.log",
+    "EditMaterialPaths": [
+
+    ],
+    "EditName": "7.19",
+    "EditType": 4,
+    "EditVersion": "2.2.0.97771",
+    "EditorResourcePackPath": "C:\\Program Files (x86)\\Netease\\MCStudio\\data\\inner_res",
+    "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+    "GameType": 1,
+    "Id": "58574e35963d4c4b95814166ab10b794",
+    "IsMap": true,
+    "NewEditCount": 82,
+    "OldComponents": [
+
+    ],
+    "OldEditCount": 0,
+    "SaveBackAddOnPath": "",
+    "SaveBackMapPath": "C:\\MCStudioDownload\\work\\1641694259@qq.com\\Cpp\\Map\\58574e35963d4c4b95814166ab10b794",
+    "Seed": "1234",
+    "ServerName": "EXPR",
+    "ShowGpuDriverTips": false,
+    "ShowGuide": false,
+    "Source": "import",
+    "StudioPort": 11936,
+    "StudioTempPath": "C:\\MCStudioDownload\\temp\\editorTemp",
+    "UserId": "84639",
+    "UserName": "nan",
+    "WorldType": 1
+}

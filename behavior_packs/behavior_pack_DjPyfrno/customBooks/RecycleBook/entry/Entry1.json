@@ -1,0 +1,13 @@
+{
+    "parent": "Category1",
+    "icon": "textures/items/sign",
+    "title": "章节1",
+    "isLocked": false,
+    "pages":[
+        {
+            "type": "CustomMod:MyRecyclePage",
+            "onState1": false, 
+            "onState2": true
+        }           
+    ]    
+}

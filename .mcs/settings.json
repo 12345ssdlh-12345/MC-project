@@ -1,0 +1,18 @@
+{
+    "Arena.Component.Namespace": "gszqq",
+    "FirstTabSetting": 1,
+    "ShortItemSettings": [
+        "resource_packs\\resource_pack_h05xog9K\\ui",
+        "behavior_packs\\behavior_pack_DjPyfrno\\Presets",
+        "behavior_packs\\behavior_pack_DjPyfrno\\Parts",
+        "behavior_packs\\behavior_pack_DjPyfrno\\BoxData",
+        "resource_packs\\resource_pack_h05xog9K\\effects",
+        "resource_packs\\resource_pack_h05xog9K\\models",
+        "resource_packs\\resource_pack_h05xog9K\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+
+    },
+    "Uluru.checkSuspectOldUI": true,
+    "add_box_path": "C:/MCStudioDownload/MCPresetEditor/Res/Genesis/models"
+}

@@ -1,0 +1,143 @@
+{
+   "main" : {
+      "controls" : [
+         {
+            "panel" : {
+               "alpha" : 1.0,
+               "anchor_from" : "center",
+               "anchor_to" : "center",
+               "clip_offset" : [ 0, 0 ],
+               "clips_children" : false,
+               "controls" : [
+                  {
+                     "image" : {
+                        "clip_direction" : "left",
+                        "clip_ratio" : 0.0,
+                        "controls" : [
+                           {
+                              "image" : {
+                                 "clip_direction" : "left",
+                                 "clip_ratio" : 0.0,
+                                 "layer" : 1,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "offset" : [ 4.0, -80.0 ],
+                                 "size" : [ 46, 38 ],
+                                 "texture" : "textures/ui/warning_alex",
+                                 "type" : "image",
+                                 "uv" : [ 0, 0 ],
+                                 "uv_size" : [ 0, 0 ]
+                              }
+                           },
+                           {
+                              "label" : {
+                                 "color" : [ 1, 1, 1 ],
+                                 "font_size" : "large",
+                                 "font_type" : "smooth",
+                                 "layer" : 2,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "offset" : [ 0.0, -41.0 ],
+                                 "size" : [ 100, 18 ],
+                                 "text" : "很遗憾！",
+                                 "text_alignment" : "center",
+                                 "type" : "label"
+                              }
+                           },
+                           {
+                              "label(0)" : {
+                                 "color" : [ 1, 1, 1 ],
+                                 "font_type" : "smooth",
+                                 "layer" : 3,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "offset" : [ 2.50, 47.0 ],
+                                 "size" : [ 117, 100 ],
+                                 "text" : "你未能在规定时间内走出迷宫",
+                                 "text_alignment" : "center",
+                                 "type" : "label"
+                              }
+                           },
+                           {
+                              "button@common.button" : {
+                                 "$control_alpha" : 1.0,
+                                 "$default_texture" : "textures/ui/cancel",
+                                 "$hover_texture" : "textures/netease/common/button/hover",
+                                 "$is_new_nine_slice" : false,
+                                 "$label_color" : [ 1, 1, 1 ],
+                                 "$label_font_scale_factor" : 1.0,
+                                 "$label_font_size" : "large",
+                                 "$label_layer" : 3,
+                                 "$label_offset" : [ 0, 0 ],
+                                 "$label_text" : "",
+                                 "$nine_slice_buttom" : 0,
+                                 "$nine_slice_left" : 0,
+                                 "$nine_slice_right" : 0,
+                                 "$nine_slice_top" : 0,
+                                 "$nineslice_size" : [ 0, 0, 0, 0 ],
+                                 "$pressed_button_name" : "%netease_editor_template_namespace.click",
+                                 "$pressed_texture" : "textures/netease/common/button/pressed",
+                                 "$texture_layer" : 2,
+                                 "bindings" : [
+                                    {
+                                       "binding_collection_name" : "",
+                                       "binding_condition" : "always_when_visible",
+                                       "binding_type" : "collection_details"
+                                    }
+                                 ],
+                                 "button_mappings" : [],
+                                 "controls" : [
+                                    {
+                                       "default@netease_editor_template_namespace.default" : {}
+                                    },
+                                    {
+                                       "hover@netease_editor_template_namespace.hover" : {}
+                                    },
+                                    {
+                                       "pressed@netease_editor_template_namespace.pressed" : {}
+                                    },
+                                    {
+                                       "button_label@netease_editor_template_namespace.button_label" : {}
+                                    }
+                                 ],
+                                 "default_control" : "default",
+                                 "hover_control" : "hover",
+                                 "is_handle_button_move_event" : true,
+                                 "layer" : 4,
+                                 "max_size" : [ 0, 0 ],
+                                 "min_size" : [ 0, 0 ],
+                                 "offset" : [ 1.0, 72.0 ],
+                                 "pressed_control" : "pressed",
+                                 "size" : [ 100, 50 ],
+                                 "type" : "button"
+                              }
+                           }
+                        ],
+                        "layer" : 1,
+                        "max_size" : [ 0, 0 ],
+                        "min_size" : [ 0, 0 ],
+                        "offset" : [ 0, 0 ],
+                        "texture" : "textures/ui/effect_background",
+                        "type" : "image",
+                        "uv" : [ 0, 0 ],
+                        "uv_size" : [ 0, 0 ]
+                     }
+                  }
+               ],
+               "enabled" : true,
+               "layer" : 1,
+               "max_size" : [ 0, 0 ],
+               "min_size" : [ 0, 0 ],
+               "offset" : [ -0.50, 2.50 ],
+               "priority" : 0,
+               "propagate_alpha" : false,
+               "size" : [ 145, 215 ],
+               "type" : "panel",
+               "visible" : true
+            }
+         }
+      ],
+      "type" : "screen"
+   },
+   "namespace" : "fail"
+}

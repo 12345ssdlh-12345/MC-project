@@ -1,0 +1,150 @@
+{
+    "format_version": "1.13.0",
+    "netease:block_geometry": {
+        "bones": [
+            {
+                "name": "root",
+                "pivot": [
+                    0,
+                    0,
+                    0
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -8,
+                            0,
+                            4
+                        ],
+                        "pivot": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            16,
+                            16,
+                            0
+                        ],
+                        "uv": {
+
+                        }
+                    },
+                    {
+                        "origin": [
+                            -8,
+                            0,
+                            -4
+                        ],
+                        "pivot": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            16,
+                            16,
+                            0
+                        ],
+                        "uv": {
+
+                        }
+                    },
+                    {
+                        "origin": [
+                            -8,
+                            0,
+                            -4
+                        ],
+                        "pivot": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "rotation": [
+                            0,
+                            -90,
+                            0
+                        ],
+                        "size": [
+                            16,
+                            16,
+                            0
+                        ],
+                        "uv": {
+
+                        }
+                    },
+                    {
+                        "origin": [
+                            -8,
+                            0,
+                            4
+                        ],
+                        "pivot": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "rotation": [
+                            0,
+                            -90,
+                            0
+                        ],
+                        "size": [
+                            16,
+                            16,
+                            0
+                        ],
+                        "uv": {
+
+                        }
+                    }
+                ],
+                "name": "eggplant",
+                "parent": "root",
+                "pivot": [
+                    0,
+                    0,
+                    0
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "description": {
+            "identifier": "gszqq:qiezi_0",
+            "item_texture": "gszqq:qiezi_0",
+            "textures": [
+                "gszqq:qiezi_0_1"
+            ],
+            "textures_descriptions": [
+                {
+                    "length": 16,
+                    "width": 16
+                }
+            ],
+            "use_ao": false
+        }
+    }
+}

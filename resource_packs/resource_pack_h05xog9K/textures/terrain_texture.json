@@ -1,0 +1,264 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "customcrop:customcrop_1_stage0": {
+            "textures": "textures/blocks/customcrop_1_stage0"
+        },
+        "customcrop:customcrop_1_stage1": {
+            "textures": "textures/blocks/customcrop_1_stage1"
+        },
+        "customcrop:customcrop_1_stage2": {
+            "textures": "textures/blocks/customcrop_1_stage2"
+        },
+        "customcrop:customcrop_stage0": {
+            "textures": "textures/blocks/customcrop_stage0"
+        },
+        "customcrop:customcrop_stage1": {
+            "textures": "textures/blocks/customcrop_stage1"
+        },
+        "customcrop:customcrop_stage2": {
+            "textures": "textures/blocks/customcrop_stage2"
+        },
+        "farm:acacia_table_lamp": {
+            "textures": "textures/blocks/furniture/table_lamp_acacia"
+        },
+        "farm:bathtub": {
+            "textures": "textures/blocks/furniture/bathtub"
+        },
+        "farm:bear_doll": {
+            "textures": "textures/blocks/furniture/bear_doll"
+        },
+        "farm:bedside_cupboard": {
+            "textures": "textures/blocks/furniture/bedside_cupboard"
+        },
+        "farm:bigoak_table_lamp": {
+            "textures": "textures/blocks/furniture/table_lamp_big_oak"
+        },
+        "farm:birch_table_lamp": {
+            "textures": "textures/blocks/furniture/table_lamp_birch"
+        },
+        "farm:close_stool": {
+            "textures": "textures/blocks/furniture/close_stool"
+        },
+        "farm:connect_table": {
+            "textures": "textures/blocks/furniture/connect_table"
+        },
+        "farm:crimson_table_lamp": {
+            "textures": "textures/blocks/furniture/table_lamp_crimson"
+        },
+        "farm:juicer": {
+            "textures": "textures/blocks/furniture/juicer"
+        },
+        "farm:juicer_corn": {
+            "textures": "textures/blocks/furniture/juicer_has_corn"
+        },
+        "farm:juicer_corn_bottle": {
+            "textures": "textures/blocks/furniture/juicer_has_corn_bottle"
+        },
+        "farm:juicer_lemon": {
+            "textures": "textures/blocks/furniture/juicer_has_lemon"
+        },
+        "farm:juicer_lemon_bottle": {
+            "textures": "textures/blocks/furniture/juicer_has_lemon_bottle"
+        },
+        "farm:juicer_spinach": {
+            "textures": "textures/blocks/furniture/juicer_has_spinach"
+        },
+        "farm:juicer_spinach_bottle": {
+            "textures": "textures/blocks/furniture/juicer_has_spinach_bottle"
+        },
+        "farm:jungle_table_lamp": {
+            "textures": "textures/blocks/furniture/table_lamp_jungle"
+        },
+        "farm:logo_tv": {
+            "textures": "textures/blocks/furniture/logo_tv"
+        },
+        "farm:logo_tv_open": {
+            "textures": "textures/blocks/furniture/logo_tv_open"
+        },
+        "farm:modern_bed": {
+            "textures": "textures/blocks/furniture/modern_bed"
+        },
+        "farm:mug": {
+            "textures": "textures/blocks/furniture/mug"
+        },
+        "farm:oak_table_lamp": {
+            "textures": "textures/blocks/furniture/table_lamp_oak"
+        },
+        "farm:planks_acacia": {
+            "textures": "textures/blocks/furniture/planks_acacia"
+        },
+        "farm:planks_big_oak": {
+            "textures": "textures/blocks/furniture/planks_big_oak"
+        },
+        "farm:planks_birch": {
+            "textures": "textures/blocks/furniture/planks_birch"
+        },
+        "farm:planks_crimson": {
+            "textures": "textures/blocks/furniture/crimson_planks"
+        },
+        "farm:planks_jungle": {
+            "textures": "textures/blocks/furniture/planks_jungle"
+        },
+        "farm:planks_oak": {
+            "textures": "textures/blocks/furniture/planks_oak"
+        },
+        "farm:planks_spruce": {
+            "textures": "textures/blocks/furniture/planks_spruce"
+        },
+        "farm:planks_warped": {
+            "textures": "textures/blocks/furniture/warped_planks"
+        },
+        "farm:sofa_black": {
+            "textures": "textures/blocks/furniture/sofa/black"
+        },
+        "farm:sofa_blue": {
+            "textures": "textures/blocks/furniture/sofa/blue"
+        },
+        "farm:sofa_brown": {
+            "textures": "textures/blocks/furniture/sofa/brown"
+        },
+        "farm:sofa_cyan": {
+            "textures": "textures/blocks/furniture/sofa/cyan"
+        },
+        "farm:sofa_gray": {
+            "textures": "textures/blocks/furniture/sofa/gray"
+        },
+        "farm:sofa_light_blue": {
+            "textures": "textures/blocks/furniture/sofa/light_blue"
+        },
+        "farm:sofa_light_cyan": {
+            "textures": "textures/blocks/furniture/sofa/light_cyan"
+        },
+        "farm:sofa_light_gray": {
+            "textures": "textures/blocks/furniture/sofa/light_gray"
+        },
+        "farm:sofa_light_green": {
+            "textures": "textures/blocks/furniture/sofa/light_green"
+        },
+        "farm:sofa_orange": {
+            "textures": "textures/blocks/furniture/sofa/orange"
+        },
+        "farm:sofa_pink_red": {
+            "textures": "textures/blocks/furniture/sofa/pink_red"
+        },
+        "farm:sofa_purple": {
+            "textures": "textures/blocks/furniture/sofa/purple"
+        },
+        "farm:sofa_red": {
+            "textures": "textures/blocks/furniture/sofa/red"
+        },
+        "farm:sofa_white": {
+            "textures": "textures/blocks/furniture/sofa/white"
+        },
+        "farm:sofa_yellow": {
+            "textures": "textures/blocks/furniture/sofa/yellow"
+        },
+        "farm:spruce_table_lamp": {
+            "textures": "textures/blocks/furniture/table_lamp_spruce"
+        },
+        "farm:warped_table_lamp": {
+            "textures": "textures/blocks/furniture/table_lamp_warped"
+        },
+        "farm:water_tap": {
+            "textures": "textures/blocks/furniture/water_tap"
+        },
+        "gszqq:bocai_0": {
+            "textures": "textures/blocks/菠菜_0"
+        },
+        "gszqq:bocai_1": {
+            "textures": "textures/blocks/菠菜_1"
+        },
+        "gszqq:bocai_2": {
+            "textures": "textures/blocks/菠菜_2"
+        },
+        "gszqq:brah": {
+            "textures": "textures/blocks/brah"
+        },
+        "gszqq:corn_stage_0": {
+            "textures": "textures/blocks/玉米_0"
+        },
+        "gszqq:corn_stage_1": {
+            "textures": "textures/blocks/玉米_1"
+        },
+        "gszqq:corn_stage_2": {
+            "textures": "textures/blocks/玉米_2"
+        },
+        "gszqq:dirt": {
+            "textures": "textures/blocks/dirt"
+        },
+        "gszqq:qiezi_0_1": {
+            "textures": "textures/blocks/茄子_1"
+        },
+        "gszqq:qiezi_1": {
+            "textures": "textures/blocks/茄子_1"
+        },
+        "gszqq:qiezi_2": {
+            "textures": "textures/blocks/茄子_2"
+        },
+        "gszqq:wandou_0": {
+            "textures": "textures/blocks/豌豆_0"
+        },
+        "gszqq:wandou_1": {
+            "textures": "textures/blocks/豌豆_1"
+        },
+        "gszqq:wandou_2": {
+            "textures": "textures/blocks/豌豆_2"
+        },
+        "gszqq:xiangjiao_0": {
+            "textures": "textures/blocks/香蕉_0"
+        },
+        "gszqq:xiangjiao_1": {
+            "textures": "textures/blocks/香蕉_1"
+        },
+        "gszqq:xiangjiao_2": {
+            "textures": "textures/blocks/香蕉_2"
+        },
+        "gszqq:玉米_0": {
+            "textures": "textures/blocks/玉米_0"
+        },
+        "gszqq:玉米_1": {
+            "textures": "textures/blocks/玉米_1"
+        },
+        "gszqq:玉米_2": {
+            "textures": "textures/blocks/玉米_2"
+        },
+        "gszqq:茄子_0": {
+            "textures": "textures/blocks/茄子_0"
+        },
+        "gszqq:茄子_1": {
+            "textures": "textures/blocks/茄子_1"
+        },
+        "gszqq:茄子_2": {
+            "textures": "textures/blocks/茄子_2"
+        },
+        "gszqq:菠菜_0": {
+            "textures": "textures/blocks/菠菜_0"
+        },
+        "gszqq:菠菜_1": {
+            "textures": "textures/blocks/菠菜_1"
+        },
+        "gszqq:菠菜_2": {
+            "textures": "textures/blocks/菠菜_2"
+        },
+        "gszqq:豌豆_0": {
+            "textures": "textures/blocks/豌豆_0"
+        },
+        "gszqq:豌豆_1": {
+            "textures": "textures/blocks/豌豆_1"
+        },
+        "gszqq:豌豆_2": {
+            "textures": "textures/blocks/豌豆_2"
+        },
+        "gszqq:香蕉_0": {
+            "textures": "textures/blocks/香蕉_0"
+        },
+        "gszqq:香蕉_1": {
+            "textures": "textures/blocks/香蕉_1"
+        },
+        "gszqq:香蕉_2": {
+            "textures": "textures/blocks/香蕉_2"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

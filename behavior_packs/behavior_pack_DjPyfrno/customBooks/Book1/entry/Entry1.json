@@ -1,0 +1,33 @@
+{
+    "parent": "Category1",
+    "icon": "textures/items/sign",
+    "title": "",
+    "isLocked": false,
+    "pages":[
+        {
+            "type": "CustomMod:MyAddrPage",
+            "addr1": "/Book1/Category1/1",
+            "button1_text": "绝对地址：\"/Book1/Category1/1\"",
+            "addr2": "2",
+            "button2_text": "相对地址：\"2\""
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "页面5",
+            "content": "页面5",
+            "image": "textures/ui/myCustomBook/testImage_5"
+        },     
+        {
+            "type": "imagePage",
+            "subtitle": "页面6",
+            "content": "页面6",
+            "image": "textures/ui/myCustomBook/testImage_6"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "页面7",
+            "content": "页面7",
+            "image": "textures/ui/myCustomBook/testImage_7"
+        }            
+    ]    
+}

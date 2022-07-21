@@ -1,0 +1,12 @@
+{
+    "item": "custombooks:recyclebook",
+    "title1": "可回收组件",
+    "title2": "测试",
+    "content": "可回收组件并不要求一定要实现Reset，但是一定要有保存自己状态的操作",
+    "titleArea":{
+        "offset": [-10,0],
+        "textSize1": 9,
+        "textSize2":8,         
+        "padding": 1           
+    }
+}
